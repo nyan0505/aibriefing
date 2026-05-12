@@ -1,6 +1,6 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T06:05:00",
+  "generated_at": "2026-05-12T21:28:54.472322",
   "period": {
     "from": "2026-05-11T07:00:00",
     "to": "2026-05-12T07:00:00"
@@ -8,75 +8,123 @@
   "items": [
     {
       "category": "new_models",
-      "title": "GPT-5o Multimodal Official Release",
-      "summary": "Real-time voice & video integration, 3x faster response speed",
+      "title": "OpenAI Launches GPT-5.5 Instant as ChatGPT Default",
+      "summary": "GPT-5.5 Instant becomes ChatGPT's new default, with 50%+ fewer hallucinations and Gmail/memory integration.",
       "importance": 5,
-      "source": "https://openai.com/blog/gpt-5o",
-      "published_at": "2026-05-11T22:00:00"
+      "source": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "published_at": "2026-05-05T00:00:00Z"
     },
     {
       "category": "new_models",
-      "title": "Gemini 3 Ultra Code-Specialized Version",
-      "summary": "Google releases coding model achieving 95% on SWE-bench",
-      "importance": 4,
-      "source": "https://deepmind.google/research/gemini/gemini-3-ultra",
-      "published_at": "2026-05-11T18:30:00"
-    },
-    {
-      "category": "new_models",
-      "title": "Mistral Large 3 Open Source Release",
-      "summary": "GPT-4 level performance released under Apache 2.0 license",
-      "importance": 4,
-      "source": "https://mistral.ai/news/mistral-large-3",
-      "published_at": "2026-05-11T16:00:00"
-    },
-    {
-      "category": "productivity",
-      "title": "Claude Officially Integrated into Azure Foundry",
-      "summary": "Claude models now selectable in Microsoft enterprise environments",
-      "importance": 4,
-      "source": "https://azure.microsoft.com/blog/claude-azure-ai-foundry",
-      "published_at": "2026-05-12T02:00:00"
-    },
-    {
-      "category": "productivity",
-      "title": "Notion AI Auto Meeting Notes Launched",
-      "summary": "Zoom integration generates summary notes immediately after meetings",
+      "title": "NVIDIA Nemotron 3 Nano Omni Released on OCI",
+      "summary": "Open-source multimodal model reasoning across video, audio, images, and text now available on Oracle Cloud.",
       "importance": 3,
-      "source": "https://notion.so/blog/ai-meeting-notes",
-      "published_at": "2026-05-11T14:00:00"
+      "source": "https://blogs.oracle.com/ai-and-datascience/whats-new-in-ai-may-2026",
+      "published_at": "2026-05-09T00:00:00Z"
+    },
+    {
+      "category": "new_models",
+      "title": "OpenAI Unveils Real-Time Voice & Translation Models",
+      "summary": "Three new audio models—GPT-Realtime-2, GPT-Realtime-Translate (70+ languages), and GPT-Realtime-Whisper—launched for agents.",
+      "importance": 4,
+      "source": "https://www.marketingprofs.com/opinions/2026/54655/ai-update-may-8-2026-ai-news-and-views-from-the-past-week",
+      "published_at": "2026-05-08T00:00:00Z"
+    },
+    {
+      "category": "new_models",
+      "title": "Four Chinese Labs Release Open-Weight Coding Models",
+      "summary": "GLM-5.1, MiniMax M2.7, Kimi K2.6, and DeepSeek V4 released within 12 days, matching Western frontier at lower cost.",
+      "importance": 4,
+      "source": "https://press.airstreet.com/p/state-of-ai-may-2026",
+      "published_at": "2026-05-05T00:00:00Z"
+    },
+    {
+      "category": "new_models",
+      "title": "Meta Unveils Muse Spark Flagship LLM",
+      "summary": "Meta's first proprietary (non-Llama) model, Muse Spark, targets multimodal reasoning and agentic tasks at low compute cost.",
+      "importance": 4,
+      "source": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "published_at": "2026-05-06T00:00:00Z"
     },
     {
       "category": "productivity",
-      "title": "GitHub Copilot Agent Mode Goes GA",
-      "summary": "Supports autonomous multi-file edits and test execution",
+      "title": "Google Rolls Out 'Help Me Write' Personalized Email Tool",
+      "summary": "Google Workspace's 'Help Me Write' now drafts emails personalized to your tone, pulling context from Drive and Gmail.",
       "importance": 4,
-      "source": "https://github.blog/news/github-copilot-agent-mode-ga",
-      "published_at": "2026-05-11T20:00:00"
+      "source": "https://www.tldl.io/blog/ai-news-updates-2026",
+      "published_at": "2026-05-11T00:00:00Z"
     },
     {
-      "category": "bigtech",
-      "title": "OpenAI Valuation Surpasses $340B",
-      "summary": "New funding round led by SoftBank closes successfully",
-      "importance": 5,
-      "source": "https://openai.com/blog/openai-softbank-funding-2026",
-      "published_at": "2026-05-12T01:00:00"
-    },
-    {
-      "category": "bigtech",
-      "title": "Google I/O 2026 Key AI Announcements",
-      "summary": "Gemini OS integration and Project Astra live demo revealed",
-      "importance": 5,
-      "source": "https://blog.google/technology/ai/google-io-2026-ai-announcements",
-      "published_at": "2026-05-11T17:00:00"
-    },
-    {
-      "category": "bigtech",
-      "title": "Meta Unveils 'Andromeda 2' AI Supercomputer",
-      "summary": "600K GPU cluster declared as independent AI infrastructure",
+      "category": "productivity",
+      "title": "Anthropic Launches 12 Claude Plugins for Legal Work",
+      "summary": "Anthropic released 12 Claude plugins for contract, employment, and litigation law, integrating Thomson Reuters' CoCounsel.",
       "importance": 4,
-      "source": "https://ai.meta.com/blog/andromeda-2-supercomputer",
-      "published_at": "2026-05-11T15:00:00"
+      "source": "https://llm-stats.com/ai-news",
+      "published_at": "2026-05-11T00:00:00Z"
+    },
+    {
+      "category": "productivity",
+      "title": "GPT-5.5 Instant Adds Memory Sources & Gmail Context",
+      "summary": "ChatGPT now shows memory sources across all models and can personalize answers using past chats, files, and Gmail.",
+      "importance": 4,
+      "source": "https://www.marketingprofs.com/opinions/2026/54655/ai-update-may-8-2026-ai-news-and-views-from-the-past-week",
+      "published_at": "2026-05-08T00:00:00Z"
+    },
+    {
+      "category": "productivity",
+      "title": "Google Hiring Hundreds of Forward-Deployed AI Engineers",
+      "summary": "Google is building a team of forward-deployed engineers, reportedly in the hundreds, to help business customers adopt its AI products.",
+      "importance": 3,
+      "source": "https://llm-stats.com/ai-news",
+      "published_at": "2026-05-11T00:00:00Z"
+    },
+    {
+      "category": "productivity",
+      "title": "JPMorgan Chase Reclassifies AI as Core Infrastructure",
+      "summary": "JPMorgan formalized a $19.8B tech budget with 2,000 AI staff, projecting $2.5B annual value from AI productivity and security.",
+      "importance": 3,
+      "source": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "published_at": "2026-05-07T00:00:00Z"
+    },
+    {
+      "category": "bigtech",
+      "title": "Google Announces Android 17 AI Feature Slate",
+      "summary": "Google unveiled major AI features for Android 17 ahead of Apple's expected iOS/Siri AI revamp announcement.",
+      "importance": 5,
+      "source": "https://www.bloomberg.com/news/articles/2026-05-12/google-unveils-android-ai-updates-ahead-of-apple-s-siri-revamp",
+      "published_at": "2026-05-12T00:00:00Z"
+    },
+    {
+      "category": "bigtech",
+      "title": "Pentagon Signs AI Deals with Google, Microsoft, OpenAI & More",
+      "summary": "Pentagon struck AI agreements with 8 tech giants for classified network deployment, notably excluding Anthropic.",
+      "importance": 5,
+      "source": "https://www.techtarget.com/searchcio/feature/Weekly-News-Roundup-OpenAI-launch-AI-lawsuits-and-frameworks-and-Pentagon-AI-alliances",
+      "published_at": "2026-05-05T00:00:00Z"
+    },
+    {
+      "category": "bigtech",
+      "title": "Microsoft, Google, xAI Allow US Gov to Pre-Test AI Models",
+      "summary": "NIST announced Google, Microsoft, and xAI will share unreleased AI models with the government for cybersecurity testing.",
+      "importance": 4,
+      "source": "https://www.cnn.com/2026/05/05/tech/microsoft-google-xai-government-test-ai-models",
+      "published_at": "2026-05-05T00:00:00Z"
+    },
+    {
+      "category": "bigtech",
+      "title": "Apple Settles AI False Advertising Lawsuit for Up to $95/User",
+      "summary": "Apple agreed to settle a class action over overstated Apple Intelligence/Siri claims on iPhone 16, paying up to $95 per buyer.",
+      "importance": 4,
+      "source": "https://www.techtarget.com/searchcio/feature/Weekly-News-Roundup-OpenAI-launch-AI-lawsuits-and-frameworks-and-Pentagon-AI-alliances",
+      "published_at": "2026-05-05T00:00:00Z"
+    },
+    {
+      "category": "bigtech",
+      "title": "Anthropic Secures $50B+ in New Capital from Google & Amazon",
+      "summary": "Anthropic raised $40B from Google and $5B from Amazon (with $100B AWS spend commitment), stacking over $50B in fresh capital.",
+      "importance": 5,
+      "source": "https://press.airstreet.com/p/state-of-ai-may-2026",
+      "published_at": "2026-05-05T00:00:00Z"
     }
   ]
 }
