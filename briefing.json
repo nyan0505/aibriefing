@@ -1,0 +1,82 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T06:05:00",
+  "period": {
+    "from": "2026-05-11T07:00:00",
+    "to": "2026-05-12T07:00:00"
+  },
+  "items": [
+    {
+      "category": "new_models",
+      "title": "GPT-5o 멀티모달 정식 출시",
+      "summary": "실시간 음성·영상 통합, 응답 속도 3배 향상",
+      "importance": 5,
+      "source": "https://openai.com/blog/gpt-5o",
+      "published_at": "2026-05-11T22:00:00"
+    },
+    {
+      "category": "new_models",
+      "title": "Gemini 3 Ultra 코드 특화 버전",
+      "summary": "구글, SWE-bench 95% 달성 코딩 모델 공개",
+      "importance": 4,
+      "source": "https://deepmind.google/research/gemini/gemini-3-ultra",
+      "published_at": "2026-05-11T18:30:00"
+    },
+    {
+      "category": "new_models",
+      "title": "Mistral Large 3 오픈소스 공개",
+      "summary": "GPT-4급 성능, Apache 2.0 라이선스로 무료 배포",
+      "importance": 4,
+      "source": "https://mistral.ai/news/mistral-large-3",
+      "published_at": "2026-05-11T16:00:00"
+    },
+    {
+      "category": "productivity",
+      "title": "Claude → Azure Foundry 정식 통합",
+      "summary": "MS 엔터프라이즈 환경에서 Claude 모델 선택 가능",
+      "importance": 4,
+      "source": "https://azure.microsoft.com/blog/claude-azure-ai-foundry",
+      "published_at": "2026-05-12T02:00:00"
+    },
+    {
+      "category": "productivity",
+      "title": "Notion AI 자동 회의록 기능 출시",
+      "summary": "Zoom 연동 후 회의 종료 즉시 요약 노트 생성",
+      "importance": 3,
+      "source": "https://notion.so/blog/ai-meeting-notes",
+      "published_at": "2026-05-11T14:00:00"
+    },
+    {
+      "category": "productivity",
+      "title": "GitHub Copilot 에이전트 모드 GA",
+      "summary": "멀티파일 자율 수정·테스트 실행까지 지원",
+      "importance": 4,
+      "source": "https://github.blog/news/github-copilot-agent-mode-ga",
+      "published_at": "2026-05-11T20:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "OpenAI 기업가치 3400억 달러 돌파",
+      "summary": "소프트뱅크 주도 신규 펀딩 라운드 마감",
+      "importance": 5,
+      "source": "https://openai.com/blog/openai-softbank-funding-2026",
+      "published_at": "2026-05-12T01:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "Google I/O 2026 AI 주요 발표 요약",
+      "summary": "Gemini OS 통합·Project Astra 실사용 공개",
+      "importance": 5,
+      "source": "https://blog.google/technology/ai/google-io-2026-ai-announcements",
+      "published_at": "2026-05-11T17:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "Meta, AI 슈퍼컴퓨터 'Andromeda 2' 공개",
+      "summary": "GPU 60만 개 규모, 자체 AI 인프라 독립 선언",
+      "importance": 4,
+      "source": "https://ai.meta.com/blog/andromeda-2-supercomputer",
+      "published_at": "2026-05-11T15:00:00"
+    }
+  ]
+}
