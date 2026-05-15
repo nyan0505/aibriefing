@@ -1,130 +1,130 @@
 {
-  "date": "2026-05-13",
-  "generated_at": "2026-05-13T21:31:01.204991",
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T21:22:52.334250",
   "period": {
-    "from": "2026-05-12T07:00:00",
-    "to": "2026-05-13T07:00:00"
+    "from": "2026-05-14T07:00:00",
+    "to": "2026-05-15T07:00:00"
   },
   "items": [
     {
       "category": "new_models",
-      "title": "OpenAI Launches 3 Real-Time Audio Models",
-      "summary": "GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper target voice agents and live transcription.",
-      "importance": 4,
-      "source": "https://www.marketingprofs.com/opinions/2026/54655/ai-update-may-8-2026-ai-news-and-views-from-the-past-week",
-      "published_at": "2026-05-08T00:00:00Z"
+      "title": "Live Updates From Google I/O 2026 🔴 - Gizmodo",
+      "summary": "### Google Is Unleashing Gemini on Android Users Ready or not, here it comes. Artificial Intellig...",
+      "importance": 5,
+      "source": "https://gizmodo.com/live-updates-from-google-io-2026-2000757469",
+      "published_at": "2026-05-15T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "NVIDIA Nemotron 3 Nano Omni Now on OCI",
-      "summary": "Open-source multimodal model reasoning across video, audio, images and text available on Oracle Cloud.",
-      "importance": 3,
-      "source": "https://blogs.oracle.com/ai-and-datascience/whats-new-in-ai-may-2026",
-      "published_at": "2026-05-09T00:00:00Z"
+      "title": "Google has been quietly gaining AI customers, even before...",
+      "summary": "\"Enterprise teams tend to pick Gemini Flash and Claude Haiku, the smallest, fastest, cheapest mod...",
+      "importance": 4,
+      "source": "https://www.businessinsider.com/google-gemini-flash-model-quietly-winning-ai-customers-2026-5",
+      "published_at": "2026-05-15T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Four Chinese Labs Release Open-Weight Coding Models",
-      "summary": "GLM-5.1, MiniMax M2.7, Kimi K2.6, and DeepSeek V4 match Western frontier at far lower inference cost.",
-      "importance": 5,
-      "source": "https://press.airstreet.com/p/state-of-ai-may-2026",
-      "published_at": "2026-05-06T00:00:00Z"
+      "title": "Google to Detail Agentic AI Models at I/O, Android 17 Fea...",
+      "summary": "Google to Detail Agentic AI Models at I/O, Android 17 Features and Smart Glasses Reveal Expected...",
+      "importance": 4,
+      "source": "https://www.cnet.com/videos/google-to-detail-agentic-ai-models-at-io-android-17-features-and-smart-glasses-reveal-expected-tech-today/",
+      "published_at": "2026-05-15T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "IBM Granite 4.1 Series Released as Open Models",
-      "summary": "IBM releases Granite 4.1 in 3B, 8B, and 30B sizes with 131K token context windows at no cost.",
+      "title": "Gemini Intelligence has high Android spec requirements, l...",
+      "summary": "Go to the 9to5Google home page Gemini Gemini Intelligence # Gemini Intelligence has high Android...",
       "importance": 3,
-      "source": "https://aiflashreport.com/model-releases.html",
-      "published_at": "2026-05-11T00:00:00Z"
+      "source": "https://9to5google.com/2026/05/15/gemini-intelligence-android-spec-requirements/",
+      "published_at": "2026-05-15T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Grok 4.3 Available on Oracle OCI Enterprise AI",
-      "summary": "xAI's latest reasoning model hits OCI with 98% on τ²-Bench Telecom and 1M-token context window.",
-      "importance": 4,
-      "source": "https://blogs.oracle.com/ai-and-datascience/whats-new-in-ai-may-2026",
-      "published_at": "2026-05-09T00:00:00Z"
-    },
-    {
-      "category": "productivity",
-      "title": "ChatGPT for Excel & Google Sheets Goes Global",
-      "summary": "ChatGPT Business now offers a spreadsheet-native sidebar for Excel and Google Sheets worldwide.",
-      "importance": 4,
-      "source": "https://releasebot.io/updates/openai",
-      "published_at": "2026-05-12T00:00:00Z"
-    },
-    {
-      "category": "productivity",
-      "title": "Microsoft Outlook May 2026 AI Productivity Update",
-      "summary": "Outlook gets Copilot-powered contextual insights, smarter calendars, and bulk calendar management tools.",
-      "importance": 4,
-      "source": "https://undercodenews.com/microsoft-outlook-may-2026-update-brings-ai-insights-smarter-calendars-and-powerful-productivity-features/",
-      "published_at": "2026-05-09T00:00:00Z"
-    },
-    {
-      "category": "productivity",
-      "title": "Anthropic Launches 12 Claude Legal Plugins",
-      "summary": "New Claude plugins cover contract, employment, and litigation law, integrating Thomson Reuters CoCounsel.",
-      "importance": 4,
-      "source": "https://llm-stats.com/ai-news",
-      "published_at": "2026-05-12T00:00:00Z"
-    },
-    {
-      "category": "productivity",
-      "title": "ChatGPT for Intune Launches on Apple App Store",
-      "summary": "New enterprise iOS app lets IT teams apply Microsoft Intune and Entra policies to ChatGPT mobile.",
+      "title": "Doctor explains which foods help avoid or cause brain fog...",
+      "summary": "Alex Murdaugh convictions 03:49 May 14, 2026Image 155: Breaking down Trump-Xi summit in Beijing #...",
       "importance": 3,
-      "source": "https://releasebot.io/updates/openai",
-      "published_at": "2026-05-12T00:00:00Z"
+      "source": "https://www.cbsnews.com/video/doctor-explains-which-foods-help-avoid-or-cause-brain-fog/",
+      "published_at": "2026-05-15T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Google Hires Hundreds of Forward Deployed Engineers",
-      "summary": "Google staffing up engineers to help enterprise customers adopt its business-focused AI products.",
+      "title": "VFLOK REBRANDS AS SWIFT WORKFORCE AI INC. - The AI Journal",
+      "summary": "The original vflok™ brand used one of nature’s most remarkable evolutionary strategies – the effi...",
+      "importance": 5,
+      "source": "https://aijourn.com/vflok-rebrands-as-swift-workforce-ai-inc/",
+      "published_at": "2026-05-15T07:00:00"
+    },
+    {
+      "category": "productivity",
+      "title": "VFLOK REBRANDS AS SWIFT WORKFORCE AI INC. - PR Newswire",
+      "summary": "The original vflok™ brand used one of nature's most remarkable evolutionary strategies – the effi...",
+      "importance": 4,
+      "source": "https://www.prnewswire.com/news-releases/vflok-rebrands-as-swift-workforce-ai-inc-302773611.html",
+      "published_at": "2026-05-15T07:00:00"
+    },
+    {
+      "category": "productivity",
+      "title": "Microsoft Cuts Five Percent of LinkedIn Workforce to Fund...",
+      "summary": "\"Productivity and Business Processes\" unit efficiency and margin protection remain top priorities...",
+      "importance": 4,
+      "source": "https://www.harianbasis.co/en/microsoft-linkedin-layoffs-ai-pivot",
+      "published_at": "2026-05-15T07:00:00"
+    },
+    {
+      "category": "productivity",
+      "title": "AI ad of the week: Local bagel shop faces the ire of a sk...",
+      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More AI # AI ad of the week: Local bagel...",
       "importance": 3,
-      "source": "https://llm-stats.com/ai-news",
-      "published_at": "2026-05-12T00:00:00Z"
+      "source": "https://adage.com/technology/ai/aa-ad-of-the-week-local-bagel-shop-faces-backlash/",
+      "published_at": "2026-05-15T07:00:00"
+    },
+    {
+      "category": "productivity",
+      "title": "‘Uncharted territory’: Figure AI humanoid robots hit 24/7...",
+      "summary": "### More from AI and Robotics See All AI and RoboticsAnthropic warns China could surpass the US i...",
+      "importance": 3,
+      "source": "https://interestingengineering.com/ai-robotics/figure-ai-humanoids-24-hour-autonomous-run",
+      "published_at": "2026-05-15T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "Google, Microsoft & xAI Grant US Gov Pre-Release AI Access",
-      "summary": "CAISI will evaluate frontier AI models for national security risks before public launch.",
+      "title": "OpenAI’s new $4B consulting venture lands squarely in HR...",
+      "summary": "“Today’s launch of the OpenAI Deployment Company will help bridge a critical gap for customers,”...",
       "importance": 5,
-      "source": "https://www.cnn.com/2026/05/05/tech/microsoft-google-xai-government-test-ai-models",
-      "published_at": "2026-05-05T00:00:00Z"
+      "source": "https://hrexecutive.com/openais-new-4b-consulting-venture-lands-squarely-in-hr-territory/",
+      "published_at": "2026-05-15T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "Pentagon Signs AI Deals with 7 Tech Giants, Excludes Anthropic",
-      "summary": "SpaceX, OpenAI, Google, Microsoft, Nvidia, AWS, Oracle gain classified AI contracts; Anthropic left out.",
-      "importance": 5,
-      "source": "https://www.cnn.com/2026/05/01/tech/pentagon-ai-anthropic",
-      "published_at": "2026-05-01T00:00:00Z"
-    },
-    {
-      "category": "bigtech",
-      "title": "Meta Developing Agentic AI Assistant Powered by Muse Spark",
-      "summary": "Meta building autonomous AI assistant and testing 'Hatch' internal agent with Instagram shopping integration.",
+      "title": "OpenAI Considers Legal Action Against Apple in Strained R...",
+      "summary": "Skip to contentSkip to site index Technology Subscribe for $0.25/weekLog in Thursday, May 14, 202...",
       "importance": 4,
-      "source": "https://www.marketingprofs.com/opinions/2026/54655/ai-update-may-8-2026-ai-news-and-views-from-the-past-week",
-      "published_at": "2026-05-08T00:00:00Z"
+      "source": "https://www.nytimes.com/2026/05/14/technology/openai-apple-legal-action.html",
+      "published_at": "2026-05-15T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "OpenAI Expands to AWS, Ends Microsoft Exclusivity",
-      "summary": "OpenAI renegotiates partnership with Microsoft, now distributing models via Amazon and Google clouds.",
-      "importance": 5,
-      "source": "https://www.marketingprofs.com/opinions/2026/54640/ai-update-may-1-2026-ai-news-and-views-from-the-past-week",
-      "published_at": "2026-05-01T00:00:00Z"
-    },
-    {
-      "category": "bigtech",
-      "title": "OpenAI Rolls Out Advertising in ChatGPT",
-      "summary": "ChatGPT begins serving ads to help users discover products, with privacy protections pledged by OpenAI.",
+      "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integrati...",
+      "summary": "“When we heard about this opportunity, it sounded amazing: being able to acquire a giant number o...",
       "importance": 4,
-      "source": "https://releasebot.io/updates/openai",
-      "published_at": "2026-05-12T00:00:00Z"
+      "source": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
+      "published_at": "2026-05-15T07:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "Lego 2K Drive - Kotaku",
+      "summary": "Latest Stephen Colbert And David Letterman Throw Crap Off A Roof At A Giant CBS Bullseye 5/15/202...",
+      "importance": 3,
+      "source": "https://kotaku.com/tag/lego-2k-drive",
+      "published_at": "2026-05-15T07:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "OpenAI Trial Heads to Jury After Closing Arguments in Mus...",
+      "summary": "Advertisement SKIP ADVERTISEMENT Tell us about yourself. Take the survey. ## Site Index ## Site I...",
+      "importance": 3,
+      "source": "https://www.nytimes.com/2026/05/14/technology/openai-trial-elon-musk-sam-altman.html",
+      "published_at": "2026-05-15T07:00:00"
     }
   ]
 }
