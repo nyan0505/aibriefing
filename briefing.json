@@ -1,130 +1,130 @@
 {
-  "date": "2026-05-18",
-  "generated_at": "2026-05-18T21:30:32.148417",
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T21:30:44.621413",
   "period": {
-    "from": "2026-05-17T07:00:00",
-    "to": "2026-05-18T07:00:00"
+    "from": "2026-05-18T07:00:00",
+    "to": "2026-05-19T07:00:00"
   },
   "items": [
     {
       "category": "new_models",
-      "title": "Zenlytic Launches Zoë Self-Learning: The AI Data Analyst...",
-      "summary": "NEW YORK, May 18, 2026 /PRNewswire-PRWeb/ -- Zenlytic, the AI data analyst trusted by some of the...",
+      "title": "The 13 biggest announcements at Google I/O 2026 - The Verge",
+      "summary": "## Gemini Omni Along with Gemini 3.5, Google is launching an entirely new family of AI models it...",
       "importance": 5,
-      "source": "https://www.prweb.com/releases/zenlytic-launches-zoe-self-learning-the-ai-data-analyst-that-onboards-itself-302773223.html",
-      "published_at": "2026-05-18T07:00:00"
+      "source": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
+      "published_at": "2026-05-19T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Google Debuts Gemini-Focused Updates at I/O 2026 - Let's...",
-      "summary": "Gizmodo documents past releases, noting Gemini 2.5 (including Gemini 2.5 Flash and 2.5 Pro) and t...",
+      "title": "Google announces slew of AI advances, including a persona...",
+      "summary": "3 of 3 Demis Hassabis, Co-Founder and CEO, Google DeepMind, speaks about Gemini Omni at a Google...",
       "importance": 4,
-      "source": "https://letsdatascience.com/news/google-debuts-gemini-focused-updates-at-io-2026-4be4fde6",
-      "published_at": "2026-05-18T07:00:00"
+      "source": "https://apnews.com/article/google-io-gemini-developers-conference-a984e6756032dc4af260f8fa27e8f4a9",
+      "published_at": "2026-05-19T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Google I/O 2026 Live Updates: Latest News on Android 17 a...",
-      "summary": "Live Tech Mobile Phones # Google I/O 2026 Live: Gemini Intelligence, Android XR and More AI Expec...",
+      "title": "Google isn't releasing its next big AI model yet, drawing...",
+      "summary": "Subscribe Newsletters Tech # Google isn't releasing its next big AI model yet, drawing groans at...",
       "importance": 4,
-      "source": "https://www.cnet.com/news-live/google-io-2026-live-news-updates/",
-      "published_at": "2026-05-18T07:00:00"
+      "source": "https://www.businessinsider.com/google-io-2026-gemini-3-5-pro-2026-5",
+      "published_at": "2026-05-19T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "What We’re Expecting at Google I/O 2026 - Gizmodo",
-      "summary": "I’m looking forward to trying out this new “Gemini Intelligence.” But I’m a bit concerned many co...",
+      "title": "Dell Unveils Agentic AI Stack, Urges Data Center Rebuild...",
+      "summary": "Dell Technologies announced the Dell AI Factory with NVIDIA on May 18, 2026, and introduced the D...",
       "importance": 3,
-      "source": "https://gizmodo.com/what-were-expecting-at-google-i-o-2026-2000757479",
-      "published_at": "2026-05-18T07:00:00"
+      "source": "https://letsdatascience.com/news/dell-unveils-agentic-ai-stack-urges-data-center-rebuild-55a41dcb",
+      "published_at": "2026-05-19T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "2026 Healthcare Marketing Impact Awards - Ad Age",
-      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More Entries open | Monday, June 1, 2026...",
+      "title": "Everything Google announced at I/O 2026: Gemini, Search,...",
+      "summary": "Gemini 3.5 Pro is currently in testing and will be available next month. Gemini Omni is a new ser...",
       "importance": 3,
-      "source": "https://adage.com/events-awards/health-care-marketing-impact/aa-2026-awards-entries/",
-      "published_at": "2026-05-18T07:00:00"
+      "source": "https://9to5google.com/2026/05/19/google-io-2026-news/",
+      "published_at": "2026-05-19T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Augury's AI Workforce Aims to Redefine the Factory Floor...",
-      "summary": "# Augury's AI Workforce Aims to Redefine the Factory Floor MILAN, May 18, 2026 – Industrial AI le...",
+      "title": "Humanforce launches AI-powered Smart Scheduling to transf...",
+      "summary": "# Humanforce launches AI-powered Smart Scheduling to transform frontline workforce management Pub...",
       "importance": 5,
-      "source": "https://briefglance.com/articles/augurys-ai-workforce-aims-to-redefine-the-factory-floor",
-      "published_at": "2026-05-18T07:00:00"
+      "source": "https://us.acrofan.com/detail.php?number=1012561",
+      "published_at": "2026-05-19T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "McDonald’s photocopied its lunch menu to promote office d...",
-      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More Work # McDonald’s photocopied its l...",
+      "title": "Themes of AI in Industrial Automation Influence Automate...",
+      "summary": "Get the latest news and updates ## Related ### Bringing Object-Oriented Thinking to PLC Programmi...",
       "importance": 4,
-      "source": "https://adage.com/creativity/work/aa-mcdonalds-france-office-delivery/",
-      "published_at": "2026-05-18T07:00:00"
+      "source": "https://www.automationworld.com/communication/news/55377130/themes-of-ai-in-industrial-automation-influence-automate-2026-keynotes",
+      "published_at": "2026-05-19T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "How Meta advertisers hit automation challenges in rush to...",
-      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More AI # How Meta advertisers hit autom...",
+      "title": "Meta to Cut 8,000 Jobs Wednesday in Largest AI Restructur...",
+      "summary": "For builders outside Meta, the takeaway is stark: the skills that survive this pivot are AI syste...",
       "importance": 4,
-      "source": "https://adage.com/technology/ai/aa-how-advertisers-are-navigating-meta-ads-mcp-server/",
-      "published_at": "2026-05-18T07:00:00"
+      "source": "https://opentools.ai/news/meta-layoffs-8000-ai-restructuring-may-2026",
+      "published_at": "2026-05-19T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "The top 5 creative campaigns to know about right now - Ad...",
-      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More Top 5 # The top 5 creative campaign...",
+      "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore -...",
+      "summary": "Photograph: Thilina Kaluthotage/NurPhoto/Getty Images AI agents are everywhere. Every briefing I’...",
       "importance": 3,
-      "source": "https://adage.com/creativity/campaigns-commercials/aa-best-creative-ads-microsoft-columbia-sportswear-air-transat/",
-      "published_at": "2026-05-18T07:00:00"
+      "source": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
+      "published_at": "2026-05-19T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Natalie Silverstein is writing the playbook for AI-powere...",
-      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More Tech Power List # Natalie Silverste...",
+      "title": "Google announces agent-optimized Gemini 3.5 Flash and a d...",
+      "summary": "That has been a trend with Google’s tick-tock model updates over the past year, but the team says...",
       "importance": 3,
-      "source": "https://adage.com/events-awards/tech-power-list/aa-natalie-silverstein-collectively/",
-      "published_at": "2026-05-18T07:00:00"
+      "source": "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/",
+      "published_at": "2026-05-19T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "OpenAI and Anthropic Spark Cybersecurity Arms Race - Let'...",
-      "summary": "Practice interview problems based on real data 1,500+ SQL & Python problems across 15 industry da...",
+      "title": "Google I/O 2026 live: Gemini AI, Android 17, Android XR u...",
+      "summary": "Advertisement Advertisement Advertisement Live # Google I/O 2026 live: Gemini AI, Android 17, And...",
       "importance": 5,
-      "source": "https://letsdatascience.com/news/openai-and-anthropic-spark-cybersecurity-arms-race-300dcc66",
-      "published_at": "2026-05-18T07:00:00"
+      "source": "https://tech.yahoo.com/general/live/google-io-2026-live-gemini-ai-android-17-android-xr-updates-and-more-135626963.html",
+      "published_at": "2026-05-19T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "Federal jury sides with OpenAI in feud with Elon Musk - B...",
-      "summary": "William Savitt, attorney representing OpenAI, left, speaks during a press conference outside the...",
+      "title": "Google's latest AI flex came with Silicon Valley's new fa...",
+      "summary": "Subscribe Newsletters Tech # Google's latest AI flex came with Silicon Valley's new favorite word...",
       "importance": 4,
-      "source": "https://www.bozemandailychronicle.com/ap_news/business/federal-jury-sides-with-openai-in-feud-with-elon-musk/article_ef8f5c8a-d3b7-57bc-8d4c-715b1341dc48.html",
-      "published_at": "2026-05-18T07:00:00"
+      "source": "https://www.businessinsider.com/googles-ceo-jokes-about-tokenmaxxing-use-of-its-ai-surges-2026-5",
+      "published_at": "2026-05-19T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "OpenAI Sued For Allegedly Disclosing Queries To Meta, Goo...",
-      "summary": "Search Jobs Post a Job More TVN Video News ### Programming Everywhere Video: AI & Content’s Next...",
+      "title": "Google CEO Pichai: AI overviews now has over 2.5 billion...",
+      "summary": "Skip Navigation Markets Pre-Markets U.S. Markets Currencies Prediction Markets Cryptocurrency Fut...",
       "importance": 4,
-      "source": "https://tvnewscheck.com/regulation/article/openai-sued-for-allegedly-disclosing-queries-to-meta-google/",
-      "published_at": "2026-05-18T07:00:00"
+      "source": "https://www.cnbc.com/video/2026/05/19/google-ceo-pichai-ai-overviews-now-has-over-2-point-5-billion-monthly-users.html",
+      "published_at": "2026-05-19T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "Elon Musk Loses OpenAI Trial in Dumbest Way Imaginable -...",
-      "summary": "Culture Mike Pearl May 16 Sign up for our newsletters Latest [...] Schmidt is the second commence...",
+      "title": "Q1 2026 Enterprise SaaS VC Trends - PitchBook",
+      "summary": "Q1 showed that enterprise SaaS is not disappearing. SaaS is instead being rewritten around AI-nat...",
       "importance": 3,
-      "source": "https://gizmodo.com/elon-musk-loses-openai-trial-in-dumbest-way-imaginable-2000760117",
-      "published_at": "2026-05-18T07:00:00"
+      "source": "https://pitchbook.com/news/reports/q1-2026-enterprise-saas-vc-trends",
+      "published_at": "2026-05-19T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "Technology News | ⚡Israel: AI21 Labs Layoffs Announced, C...",
-      "summary": "## Technology # ⚡Israel: AI21 Labs Layoffs Announced, Cutting 60% Workforce By Team Latestly Isra...",
+      "title": "Google I/O primer: Alphabet's AI showcase is its chance t...",
+      "summary": "Skip Navigation Markets Pre-Markets U.S. Markets Currencies Prediction Markets Cryptocurrency Fut...",
       "importance": 3,
-      "source": "https://www.latestly.com/quickly/technology/israel-ai21-labs-layoffs-announced-cutting-60-workforce-7435221.html",
-      "published_at": "2026-05-18T07:00:00"
+      "source": "https://www.cnbc.com/2026/05/18/google-i-o-alphabet-ai-wall-street.html",
+      "published_at": "2026-05-19T07:00:00"
     }
   ]
 }
