@@ -1,130 +1,130 @@
 {
-  "date": "2026-05-20",
-  "generated_at": "2026-05-20T21:34:01.430794",
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T21:31:18.711917",
   "period": {
-    "from": "2026-05-19T07:00:00",
-    "to": "2026-05-20T07:00:00"
+    "from": "2026-05-20T07:00:00",
+    "to": "2026-05-21T07:00:00"
   },
   "items": [
     {
       "category": "new_models",
-      "title": "Next Chapter AI Announces First Free, Multi-Day AI Summit...",
-      "summary": "My Markets Watchlist Markets News # Next Chapter AI Announces First Free, Multi-Day AI Summit Des...",
+      "title": "AMD Launches the Ryzen AI Max 400 Series Processors: \"Str...",
+      "summary": "Wednesday, May 20th 2026 # AMD Launches the Ryzen AI Max 400 Series Processors: \"Strix Halo\" Gets...",
       "importance": 5,
-      "source": "https://markets.businessinsider.com/news/stocks/next-chapter-ai-announces-first-free-multi-day-ai-summit-designed-by-and-for-the-book-publishing-industry-1036177137",
-      "published_at": "2026-05-20T07:00:00"
+      "source": "https://www.techpowerup.com/349218/amd-launches-the-ryzen-ai-max-400-series-processors-strix-halo-gets-a-memory-upgrade",
+      "published_at": "2026-05-21T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Tech Editors Talk Generative AI Announcements at Google I...",
-      "summary": "The New Gemini Isn't the Siri We Need ### The New Gemini Isn't the Siri We Need [...] ### Watch G...",
+      "title": "Google's Latest Stuff Explained in Human Terms - CNET",
+      "summary": "Google's Latest Stuff Explained in Human Terms # Google's Latest Stuff Explained in Human Terms A...",
       "importance": 4,
-      "source": "https://www.cnet.com/videos/tech-editors-talk-generative-ai-announcements-at-google-io-2026/",
-      "published_at": "2026-05-20T07:00:00"
+      "source": "https://www.cnet.com/videos/googles-latest-stuff-explained-in-human-terms/",
+      "published_at": "2026-05-21T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "CAAT, DEPA, Department of Agriculture, GISTDA, DTI and In...",
-      "summary": "SingHealth and the Gyalpozhing College of Information Technology (GCIT), Royal University of Bhut...",
+      "title": "Graduation ceremony disrupted by AI name-reading system -...",
+      "summary": "00:26 ## Experts sound alarm as new AI-generated videos of Iran war spread across social media 03...",
       "importance": 4,
-      "source": "https://www.bastillepost.com/global/article/5868410-caat-depa-department-of-agriculture-gistda-dti-and-industry-leaders-unite-at-drontech-asia-2026-press-conference",
-      "published_at": "2026-05-20T07:00:00"
+      "source": "https://www.nbcnews.com/video/graduation-ceremony-disrupted-by-ai-name-reading-system-263678021508",
+      "published_at": "2026-05-21T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "LG CNS Expands North American AX Business, Supporting Sma...",
-      "summary": "# LG CNS Expands North American AX Business, Supporting Smart Factory Transformation for SMEs 202...",
+      "title": "Is Google's Uncanny Virtual Human a Future Coworker or Co...",
+      "summary": "The Future of Smart Glasses Is Coming This Fall ### The Future of Smart Glasses Is Coming This Fa...",
       "importance": 3,
-      "source": "https://www.kipost.net/news/articleViewAmp.html?idxno=338331",
-      "published_at": "2026-05-20T07:00:00"
+      "source": "https://www.cnet.com/videos/is-googles-uncanny-virtual-human-a-future-coworker-or-concierge/",
+      "published_at": "2026-05-21T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Sam Altman's OpenAI preparing to file for blockbuster IPO...",
-      "summary": "Email New York Post Switch between CA and NY editions here. Edition #### Recommended Business # S...",
+      "title": "Two hours that changed AI - Axios",
+      "summary": "5. Wall Street: SpaceX's long-awaited IPO filingrevealed a company rapidly transforming into an A...",
       "importance": 3,
-      "source": "https://nypost.com/2026/05/20/business/sam-altmans-openai-preparing-to-file-for-ipo-soon-report/",
-      "published_at": "2026-05-20T07:00:00"
+      "source": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
+      "published_at": "2026-05-21T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "New Research Sheds Light on the Risks and Realities of Fr...",
-      "summary": "57% report wasting time switching between an average of seven communication tools 76% use non-app...",
+      "title": "GLOBAL STUDY FINDS WIDENING GAP BETWEEN AI AMBITION AND W...",
+      "summary": "NVIDIA (NVDA) Raises Quarterly Dividend to $0.25; 0.4% Yield Opendoor (OPEN) Misses Q1 EPS by 8c;...",
       "importance": 5,
-      "source": "https://telecomreseller.com/2026/05/20/new-research-sheds-light-on-the-risks-and-realities-of-fragmented-workforce-communication-in-the-ai-era/",
-      "published_at": "2026-05-20T07:00:00"
+      "source": "https://www.streetinsider.com/PRNewswire/GLOBAL+STUDY+FINDS+WIDENING+GAP+BETWEEN+AI+AMBITION+AND+WORKFORCE+READINESS/26530186.html",
+      "published_at": "2026-05-21T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "How tech leaders are stitching together AI tools for an e...",
-      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More Tech Power List # How tech leaders...",
+      "title": "GLOBAL STUDY FINDS WIDENING GAP BETWEEN AI AMBITION AND W...",
+      "summary": "ZURICH, May 21, 2026 /PRNewswire/ -- A global Adecco Group study of 2,000 c-suite executives acro...",
       "importance": 4,
-      "source": "https://adage.com/events-awards/tech-power-list/aa-favorite-ai-tools-2026-honorees/",
-      "published_at": "2026-05-20T07:00:00"
+      "source": "https://ca.finance.yahoo.com/news/global-study-finds-widening-gap-044500843.html",
+      "published_at": "2026-05-21T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Inside Meta’s ads MCP server—here are the tasks AI automa...",
-      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More AI # Inside Meta’s ads MCP server—h...",
+      "title": "GLOBAL STUDY FINDS WIDENING GAP BETWEEN AI AMBITION AND W...",
+      "summary": "ZURICH, May 21, 2026 /PRNewswire/ -- A global Adecco Group study of 2,000 c-suite executives acro...",
       "importance": 4,
-      "source": "https://adage.com/technology/ai/aa-meta-ads-mcp-server-what-early-testers-are-discovering/",
-      "published_at": "2026-05-20T07:00:00"
+      "source": "https://sg.finance.yahoo.com/news/global-study-finds-widening-gap-044500316.html",
+      "published_at": "2026-05-21T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Meta layoffs hit 8,000 employees as AI overhaul reshapes...",
-      "summary": "# Latest ## Meta layoffs hit 8,000 employees as AI overhaul reshapes tech workforce Wed, May 20 #...",
+      "title": "GLOBAL STUDY FINDS WIDENING GAP BETWEEN AI AMBITION AND W...",
+      "summary": "ZURICH, May 21, 2026 /PRNewswire/ -- A global Adecco Group study of 2,000 c-suite executives acro...",
       "importance": 3,
-      "source": "https://daijiworld.com/news/newsDisplay?newsID=1314973",
-      "published_at": "2026-05-20T07:00:00"
+      "source": "https://www.prnewswire.com/news-releases/global-study-finds-widening-gap-between-ai-ambition-and-workforce-readiness-302777973.html",
+      "published_at": "2026-05-21T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Watch Google Unveil Its Biggest Updates at Google I/O 202...",
-      "summary": "Watch Google Unveil Its Biggest Updates at Google I/O 2026 in13 Minutes # Watch Google Unveil Its...",
+      "title": "Marvel Rivals May 21 Patch Notes: New Savage Adventure Ev...",
+      "summary": "Copied Image Credit: NetEase Games In Short The new Marvel Rivals content update releases on May...",
       "importance": 3,
-      "source": "https://www.cnet.com/videos/watch-google-unveil-its-biggest-updates-at-google-io-2026-in13-minutes/",
-      "published_at": "2026-05-20T07:00:00"
+      "source": "https://beebom.com/marvel-rivals-may-21-patch-notes/",
+      "published_at": "2026-05-21T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "Exclusive | OpenAI Is Preparing to File for an IPO Very S...",
-      "summary": "May 20, 2026 12:21 pm ET 1 Listen (1 min) Image 1: Sam Altman, CEO of OpenAI OpenAI CEO Sam Altma...",
+      "title": "SpaceX, Anthropic and OpenAI’s Sprint to Go Public Define...",
+      "summary": "By Bradley Olson May 21, 2026 5:30 am ET 7 Listen (1 min) Image 1: SpaceX employees watch the Sta...",
       "importance": 5,
-      "source": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
-      "published_at": "2026-05-20T07:00:00"
+      "source": "https://www.wsj.com/tech/ai/spacex-anthropic-and-openais-sprint-to-go-public-defines-the-ai-booms-big-day-d462bf7b",
+      "published_at": "2026-05-21T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "Musk-Altman Trial Verdict, PlayStation Price Hikes and Al...",
-      "summary": "### All Things Mobile What the Future ### What the Future Expert vs. AI ### Expert vs. AI ## Late...",
+      "title": "The A.I. Race to Go Public - The New York Times",
+      "summary": "May 21, 2026, 8:15 a.m. ET See more of our coverage in your search results.Encuentra más de nuest...",
       "importance": 4,
-      "source": "https://www.cnet.com/videos/musk-altman-trial-verdict-playstation-price-hikes-and-alexa-plus-ai-podcasts-tech-today/",
-      "published_at": "2026-05-20T07:00:00"
+      "source": "https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html",
+      "published_at": "2026-05-21T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "OpenAI to confidentially file for IPO as soon as Friday:...",
+      "title": "SpaceX plans for a record-breaking IPO - NBC News",
+      "summary": "04:43 ## Get an Inside Look at the 'Air Taxi' Set to Revolutionize Travel 03:55 ## Sony AI's tabl...",
+      "importance": 4,
+      "source": "https://www.nbcnews.com/video/spacex-plans-for-a-record-breaking-ipo-263694917538",
+      "published_at": "2026-05-21T07:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "OpenAI’s IPO Filing Could Arrive as Soon as Friday - TipR...",
+      "summary": "### Claim 55% Off TipRanks Looking for exposure to SpaceX & Anthropic? Check out AGIX ETF The tim...",
+      "importance": 3,
+      "source": "https://www.tipranks.com/news/openais-ipo-filing-could-arrive-as-soon-as-friday",
+      "published_at": "2026-05-21T07:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "OpenAI plans to go public as soon as September: Source -...",
       "summary": "Skip Navigation Markets Pre-Markets U.S. Markets Currencies Prediction Markets Cryptocurrency Fut...",
-      "importance": 4,
-      "source": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
-      "published_at": "2026-05-20T07:00:00"
-    },
-    {
-      "category": "bigtech",
-      "title": "OpenAI Is Racing to Go Public - Business Insider",
-      "summary": "AI-generated summary Summaries are generated by an AI model trained on Business Insider's article...",
       "importance": 3,
-      "source": "https://www.businessinsider.com/openai-ipo-racing-to-go-public-2026-5",
-      "published_at": "2026-05-20T07:00:00"
-    },
-    {
-      "category": "bigtech",
-      "title": "Alphabet unveils new AI model, smart glasses at Google I/...",
-      "summary": "Skip Navigation Markets Pre-Markets U.S. Markets Currencies Prediction Markets Cryptocurrency Fut...",
-      "importance": 3,
-      "source": "https://www.cnbc.com/video/2026/05/19/alphabet-unveils-new-ai-model-smart-glasses-at-google-io.html",
-      "published_at": "2026-05-20T07:00:00"
+      "source": "https://www.cnbc.com/video/2026/05/21/openai-plans-to-go-public-as-soon-as-september-source.html",
+      "published_at": "2026-05-21T07:00:00"
     }
   ]
 }
