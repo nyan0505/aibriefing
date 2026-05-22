@@ -1,130 +1,130 @@
 {
-  "date": "2026-05-21",
-  "generated_at": "2026-05-21T21:31:18.711917",
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T21:25:24.563833",
   "period": {
-    "from": "2026-05-20T07:00:00",
-    "to": "2026-05-21T07:00:00"
+    "from": "2026-05-21T07:00:00",
+    "to": "2026-05-22T07:00:00"
   },
   "items": [
     {
       "category": "new_models",
-      "title": "AMD Launches the Ryzen AI Max 400 Series Processors: \"Str...",
-      "summary": "Wednesday, May 20th 2026 # AMD Launches the Ryzen AI Max 400 Series Processors: \"Strix Halo\" Gets...",
+      "title": "Disney made billboards hover in Madrid for ‘The Mandalori...",
+      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More Work # Disney made billboards hover...",
       "importance": 5,
-      "source": "https://www.techpowerup.com/349218/amd-launches-the-ryzen-ai-max-400-series-processors-strix-halo-gets-a-memory-upgrade",
-      "published_at": "2026-05-21T07:00:00"
+      "source": "https://adage.com/creativity/work/aa-disney-star-wars-hovering-billboards/",
+      "published_at": "2026-05-22T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Google's Latest Stuff Explained in Human Terms - CNET",
-      "summary": "Google's Latest Stuff Explained in Human Terms # Google's Latest Stuff Explained in Human Terms A...",
+      "title": "AI ad of the week: A bidet brand makes a vivid argument f...",
+      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More AI # AI ad of the week: A bidet bra...",
       "importance": 4,
-      "source": "https://www.cnet.com/videos/googles-latest-stuff-explained-in-human-terms/",
-      "published_at": "2026-05-21T07:00:00"
+      "source": "https://adage.com/technology/ai/aa-ai-ad-of-the-week-bidetlity-vivid-argument-against-toilet-paper/",
+      "published_at": "2026-05-22T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Graduation ceremony disrupted by AI name-reading system -...",
-      "summary": "00:26 ## Experts sound alarm as new AI-generated videos of Iran war spread across social media 03...",
+      "title": "What Google’s new AI Mode ad formats mean for brands and...",
+      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More AI # What Google’s new AI Mode ad f...",
       "importance": 4,
-      "source": "https://www.nbcnews.com/video/graduation-ceremony-disrupted-by-ai-name-reading-system-263678021508",
-      "published_at": "2026-05-21T07:00:00"
+      "source": "https://adage.com/technology/ai/aa-what-advertisers-need-to-know-google-ad-formats/",
+      "published_at": "2026-05-22T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Is Google's Uncanny Virtual Human a Future Coworker or Co...",
-      "summary": "The Future of Smart Glasses Is Coming This Fall ### The Future of Smart Glasses Is Coming This Fa...",
+      "title": "SpaceX scrubs Starship V3 rocket launch - NBC News",
+      "summary": "02:31 ## Stay Tuned NOW # SpaceX scrubs Starship V3 rocket launch 05:26 Copied SpaceX scrubbed th...",
       "importance": 3,
-      "source": "https://www.cnet.com/videos/is-googles-uncanny-virtual-human-a-future-coworker-or-concierge/",
-      "published_at": "2026-05-21T07:00:00"
+      "source": "https://www.nbcnews.com/video/spacex-scrubs-starship-v3-rocket-launch-263759941573?playlist=mmlsnnd_bestofnbc-nnd",
+      "published_at": "2026-05-22T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Two hours that changed AI - Axios",
-      "summary": "5. Wall Street: SpaceX's long-awaited IPO filingrevealed a company rapidly transforming into an A...",
+      "title": "Space Interferometry Webinar on 5 June 2026 - NASA Scienc...",
+      "summary": "article 1 day ago 4 min read ### NASA-developed AI Could Help Track Harmful Algae article 2 days...",
       "importance": 3,
-      "source": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
-      "published_at": "2026-05-21T07:00:00"
+      "source": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/space-interferometry-webinar-5-june-2026/",
+      "published_at": "2026-05-22T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "GLOBAL STUDY FINDS WIDENING GAP BETWEEN AI AMBITION AND W...",
-      "summary": "NVIDIA (NVDA) Raises Quarterly Dividend to $0.25; 0.4% Yield Opendoor (OPEN) Misses Q1 EPS by 8c;...",
+      "title": "Microsoft is letting Office users remove an annoying Copi...",
+      "summary": "Microsoft is rolling out Office app updates next week that allow users to disable a floating Copi...",
       "importance": 5,
-      "source": "https://www.streetinsider.com/PRNewswire/GLOBAL+STUDY+FINDS+WIDENING+GAP+BETWEEN+AI+AMBITION+AND+WORKFORCE+READINESS/26530186.html",
-      "published_at": "2026-05-21T07:00:00"
+      "source": "https://www.theverge.com/news/935967/microsoft-copilot-floating-button-office-excel-apps-removal",
+      "published_at": "2026-05-22T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "GLOBAL STUDY FINDS WIDENING GAP BETWEEN AI AMBITION AND W...",
-      "summary": "ZURICH, May 21, 2026 /PRNewswire/ -- A global Adecco Group study of 2,000 c-suite executives acro...",
-      "importance": 4,
-      "source": "https://ca.finance.yahoo.com/news/global-study-finds-widening-gap-044500843.html",
-      "published_at": "2026-05-21T07:00:00"
-    },
-    {
-      "category": "productivity",
-      "title": "GLOBAL STUDY FINDS WIDENING GAP BETWEEN AI AMBITION AND W...",
-      "summary": "ZURICH, May 21, 2026 /PRNewswire/ -- A global Adecco Group study of 2,000 c-suite executives acro...",
-      "importance": 4,
-      "source": "https://sg.finance.yahoo.com/news/global-study-finds-widening-gap-044500316.html",
-      "published_at": "2026-05-21T07:00:00"
-    },
-    {
-      "category": "productivity",
-      "title": "GLOBAL STUDY FINDS WIDENING GAP BETWEEN AI AMBITION AND W...",
-      "summary": "ZURICH, May 21, 2026 /PRNewswire/ -- A global Adecco Group study of 2,000 c-suite executives acro...",
-      "importance": 3,
-      "source": "https://www.prnewswire.com/news-releases/global-study-finds-widening-gap-between-ai-ambition-and-workforce-readiness-302777973.html",
-      "published_at": "2026-05-21T07:00:00"
-    },
-    {
-      "category": "productivity",
-      "title": "Marvel Rivals May 21 Patch Notes: New Savage Adventure Ev...",
-      "summary": "Copied Image Credit: NetEase Games In Short The new Marvel Rivals content update releases on May...",
-      "importance": 3,
-      "source": "https://beebom.com/marvel-rivals-may-21-patch-notes/",
-      "published_at": "2026-05-21T07:00:00"
-    },
-    {
-      "category": "bigtech",
-      "title": "SpaceX, Anthropic and OpenAI’s Sprint to Go Public Define...",
-      "summary": "By Bradley Olson May 21, 2026 5:30 am ET 7 Listen (1 min) Image 1: SpaceX employees watch the Sta...",
-      "importance": 5,
-      "source": "https://www.wsj.com/tech/ai/spacex-anthropic-and-openais-sprint-to-go-public-defines-the-ai-booms-big-day-d462bf7b",
-      "published_at": "2026-05-21T07:00:00"
-    },
-    {
-      "category": "bigtech",
-      "title": "The A.I. Race to Go Public - The New York Times",
-      "summary": "May 21, 2026, 8:15 a.m. ET See more of our coverage in your search results.Encuentra más de nuest...",
-      "importance": 4,
-      "source": "https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html",
-      "published_at": "2026-05-21T07:00:00"
-    },
-    {
-      "category": "bigtech",
-      "title": "SpaceX plans for a record-breaking IPO - NBC News",
-      "summary": "04:43 ## Get an Inside Look at the 'Air Taxi' Set to Revolutionize Travel 03:55 ## Sony AI's tabl...",
-      "importance": 4,
-      "source": "https://www.nbcnews.com/video/spacex-plans-for-a-record-breaking-ipo-263694917538",
-      "published_at": "2026-05-21T07:00:00"
-    },
-    {
-      "category": "bigtech",
-      "title": "OpenAI’s IPO Filing Could Arrive as Soon as Friday - TipR...",
-      "summary": "### Claim 55% Off TipRanks Looking for exposure to SpaceX & Anthropic? Check out AGIX ETF The tim...",
-      "importance": 3,
-      "source": "https://www.tipranks.com/news/openais-ipo-filing-could-arrive-as-soon-as-friday",
-      "published_at": "2026-05-21T07:00:00"
-    },
-    {
-      "category": "bigtech",
-      "title": "OpenAI plans to go public as soon as September: Source -...",
+      "title": "Diligent CEO: AI is coming for many roles - CNBC",
       "summary": "Skip Navigation Markets Pre-Markets U.S. Markets Currencies Prediction Markets Cryptocurrency Fut...",
+      "importance": 4,
+      "source": "https://www.cnbc.com/video/2026/05/22/diligent-ceo-ai-is-coming-for-many-roles.html",
+      "published_at": "2026-05-22T07:00:00"
+    },
+    {
+      "category": "productivity",
+      "title": "How Biotech Pioneer Tim Springer Revolutionized Modern Me...",
+      "summary": "[]( © 2026 Forbes Media LLC. All Rights Reserved. AdChoices Privacy Statement Your Privacy Choice...",
+      "importance": 4,
+      "source": "https://www.forbes.com/video/5f422cdf-bd40-446f-9eb3-85faff5b1074/how-biotech-pioneer-tim-springer-revolutionized-modern-medicine-from-labs/",
+      "published_at": "2026-05-22T07:00:00"
+    },
+    {
+      "category": "productivity",
+      "title": "Singtel expands AI deployment across workforce and enterp...",
+      "summary": "Phone: +31 30 6349600 Legal Information © 2000 - 2026 Telecom.paper BV. All rights reserved. Tele...",
       "importance": 3,
-      "source": "https://www.cnbc.com/video/2026/05/21/openai-plans-to-go-public-as-soon-as-september-source.html",
-      "published_at": "2026-05-21T07:00:00"
+      "source": "https://www.telecompaper.com/news/singtel-expands-ai-deployment-across-workforce-and-enterprise-operations--1571916",
+      "published_at": "2026-05-22T07:00:00"
+    },
+    {
+      "category": "productivity",
+      "title": "From Robinhood to Rockets: Baiju Bhatt’s New Innovation F...",
+      "summary": "[]( © 2026 Forbes Media LLC. All Rights Reserved. AdChoices Privacy Statement Your Privacy Choice...",
+      "importance": 3,
+      "source": "https://www.forbes.com/video/b721c67e-b5f0-4012-9c4b-ee140b5b2211/from-robinhood-to-rockets-baiju-bhatts-new-innovation-frontier/",
+      "published_at": "2026-05-22T07:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "OpenAI Announcement, Law School Crushes AI Use, Legal Inn...",
+      "summary": "And, Jylo has opened its first European office in Strasbourg, France. Close to the European Parli...",
+      "importance": 5,
+      "source": "https://www.artificiallawyer.com/2026/05/22/openai-announcement-law-school-crushes-ai-use-legal-innovators/",
+      "published_at": "2026-05-22T07:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "Exclusive: OpenAI’s Altman Talks to Staff About IPO Timin...",
+      "summary": "[]( in Pro About Pro The Executives Leading the Data Center Race The Next GPs 2026 The Next GPs 2...",
+      "importance": 4,
+      "source": "https://www.theinformation.com/briefings/exclusive-openais-altman-talks-staff-ipo-timing",
+      "published_at": "2026-05-22T07:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "Viral videos show humanoid robots struggling to cross str...",
+      "summary": "IE 11 is not supported. For an optimal experience visit our site on another browser. Viral videos...",
+      "importance": 4,
+      "source": "https://www.nbcnews.com/video/viral-video-shows-humanoid-robots-struggling-to-cross-streets-263764037596",
+      "published_at": "2026-05-22T07:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "OpenAI Is Hiring for a Top Marketing Exec To Promote Its...",
+      "summary": "Recommended videos ## Media #### Vox Media’s Unsold Brands Field Penske Interest and Executive De...",
+      "importance": 3,
+      "source": "https://www.adweek.com/media/openai-is-hiring-for-a-top-marketing-exec-to-promote-its-ads-business/",
+      "published_at": "2026-05-22T07:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "OpenAI Must Produce Testimony From Musk Case in Copyright...",
+      "summary": "Health Law & Business Email Share To:Facebook LinkedIn # OpenAI Must Produce Testimony From Musk...",
+      "importance": 3,
+      "source": "https://news.bloomberglaw.com/health-law-and-business/openai-must-produce-testimony-from-musk-case-in-copyright-suits",
+      "published_at": "2026-05-22T07:00:00"
     }
   ]
 }
