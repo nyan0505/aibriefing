@@ -1,130 +1,122 @@
 {
-  "date": "2026-05-23",
-  "generated_at": "2026-05-23T21:17:24.763691",
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T21:18:43.609504",
   "period": {
-    "from": "2026-05-22T07:00:00",
-    "to": "2026-05-23T07:00:00"
+    "from": "2026-05-23T07:00:00",
+    "to": "2026-05-24T07:00:00"
   },
   "items": [
     {
       "category": "new_models",
-      "title": "Watch SpaceX Starship Flight Test 12 End With a Bang - CNET",
-      "summary": "### Tech Editors Talk Generative AI Announcements at Google I/O 2026 Watch SpaceX Starship Flight...",
+      "title": "SpaceX, Nvidia, OpenAI, Anthropic: We just got the latest...",
+      "summary": "The second time I had that feeling was this past Wednesday. If the release of ChatGPT in November...",
       "importance": 5,
-      "source": "https://www.cnet.com/videos/watch-spacex-starship-flight-test-12-end-with-a-bang/",
-      "published_at": "2026-05-23T07:00:00"
+      "source": "https://www.businessinsider.com/spacex-nvidia-openai-anthropic-ai-covid-shutdown-moment-2026-5",
+      "published_at": "2026-05-24T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "SpaceX successfully launches prototype of Starship rocket...",
-      "summary": "IE 11 is not supported. For an optimal experience visit our site on another browser. SpaceX succe...",
+      "title": "Apple Preparing New 'Gen AI' Website Ahead of WWDC - MacR...",
+      "summary": "Score: 2 Votes (Like | Disagree) N Nyx1 3 hours ago at 03:05 pm Apple will not be sued again for...",
       "importance": 4,
-      "source": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
-      "published_at": "2026-05-23T07:00:00"
+      "source": "https://www.macrumors.com/2026/05/23/apple-gen-ai-subdomain/",
+      "published_at": "2026-05-24T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "SpaceX launches its biggest, most beefed-up Starship yet...",
-      "summary": "6 of 6 Trucks with nitrogen line up to help prepare SpaceX’s mega rocket Starship for a test flig...",
+      "title": "Apple registers new ‘gen AI’ subdomain ahead of next mont...",
+      "summary": "Go to the 9to5Mac home page AAPL Company Siri Apple Intelligence iOS 27 # Apple registers new ‘ge...",
       "importance": 4,
-      "source": "https://apnews.com/article/spacex-elon-musk-starship-rocket-launch-53eb1c43f870561788839b08c401bf8f",
-      "published_at": "2026-05-23T07:00:00"
+      "source": "https://9to5mac.com/2026/05/23/apple-new-gen-ai-subdomain-ahead-of-wwdc/",
+      "published_at": "2026-05-24T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "NASA’s Artemis II crew lands in Florida for first crewed...",
-      "summary": "11 hours ago 1.4K ## Trump administration changes green card process; applicants to apply from th...",
+      "title": "Generative AI Helps Address Situational Depression - Let'...",
+      "summary": "Practice with real Health & Insurancedata 90SQL & Python problems · 15 industry datasets Used by...",
       "importance": 3,
-      "source": "https://newsonair.gov.in/nasas-artemis-ii-crew-lands-in-florida-for-first-crewed-moon-mission-in-decades/",
-      "published_at": "2026-05-23T07:00:00"
+      "source": "https://letsdatascience.com/news/generative-ai-helps-address-situational-depression-140d88f0",
+      "published_at": "2026-05-24T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Senstar Technologies to Report First of 2026 Results on T...",
-      "summary": "Participant Dial-in Numbers: Toll Free: 1-877-407-9716 Toll/International: 1-201-493-6779 The con...",
+      "title": "AI-Driven Manufacturing Advances Support U.S. Healthcare...",
+      "summary": "About Contact Subscribe e-Edition Make Home Page Sign Up Log In Dashboard Logout + My Account + D...",
       "importance": 3,
-      "source": "https://markets.ft.com/data/announce/detail?dockey=600-202605221914PR_NEWS_USPRX____LN66742-1",
-      "published_at": "2026-05-23T07:00:00"
+      "source": "https://markets.chroniclejournal.com/chroniclejournal/article/abnewswire-2026-5-24-ai-driven-manufacturing-advances-support-us-healthcare-systems-engineers-work-reflects-broader-industry-shift",
+      "published_at": "2026-05-24T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "ClickUp Job Cuts 2026, Workforce Reduced 22 Percent for A...",
-      "summary": "The company plans to implement salary bands reaching up to $1 million annually for those individu...",
+      "title": "Microsoft's new Copilot turns into a Windows 11 sidebar t...",
+      "summary": "The idea is similar to the original Windows 11 Copilot experience, where AI lived alongside your...",
       "importance": 5,
-      "source": "https://www.rswebsols.com/news/clickup-job-cuts-2026-us-software-company-reduces-workforce-by-22-to-shift-towards-ai-focused-positions/",
-      "published_at": "2026-05-23T07:00:00"
+      "source": "https://www.windowslatest.com/2026/05/24/microsofts-new-copilot-turns-into-a-windows-11-sidebar-that-pushes-your-apps-aside-to-make-room/",
+      "published_at": "2026-05-24T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Redefine the Internet: new AI agents spark major shift in...",
-      "summary": "Related Topics Gemini Omni Google AI The market for intelligent agents is heating up and Google h...",
+      "title": "Small Business Technology News From Epicor, Google, Micro...",
+      "summary": "This year’s Google I/O 2026 was a major statement of the company’s aggressive development of AI....",
       "importance": 4,
-      "source": "https://www.ynetnews.com/tech-and-digital/article/hkf53gjxze",
-      "published_at": "2026-05-23T07:00:00"
+      "source": "https://www.forbes.com/sites/quickerbettertech/2026/05/24/small-business-technology-news-from-epicor-google-microsoft-boston-dynamics-and-claude/",
+      "published_at": "2026-05-24T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "US company ClickUp lays off 22% workforce, but CEO says b...",
-      "summary": "ClickUp has announced a major round of layoffs as the company accelerates its shift towards artif...",
+      "title": "CEOs Expect AI-Driven Layoffs Over Next Two Years - Let's...",
+      "summary": "### Industry context Gizmodo reports experts are conflicted over whether current AI initiatives a...",
       "importance": 4,
-      "source": "https://m.economictimes.com/news/new-updates/us-company-clickup-lays-off-22-workforce-but-ceo-says-bigger-rewards-await-those-who-master-ai/articleshow/131276511.cms",
-      "published_at": "2026-05-23T07:00:00"
+      "source": "https://letsdatascience.com/news/ceos-expect-ai-driven-layoffs-over-next-two-years-91de036e",
+      "published_at": "2026-05-24T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Monark Advances AI Workforce Strategy and Organizational...",
-      "summary": "The event will explore how artificial intelligence is shifting work toward outcome ownership, cha...",
+      "title": "Meta Layoffs: Former Content Designer Voluntarily Exits C...",
+      "summary": "Narendra Modi Silver Price Kerala Lottery Results ## You May Also Like India ### Manali Traffic V...",
       "importance": 3,
-      "source": "https://www.tipranks.com/news/private-companies/monark-advances-ai-workforce-strategy-and-organizational-health-analytics-push",
-      "published_at": "2026-05-23T07:00:00"
+      "source": "https://www.latestly.com/technology/meta-layoffs-former-content-designer-voluntarily-exits-company-during-latest-workforce-restructuring-shares-post-7444872.html",
+      "published_at": "2026-05-24T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Tech Layoffs: ClickUp Cuts 22% Workforce, Unveils ‘Millio...",
-      "summary": "Companies # Tech Layoffs: ClickUp Cuts 22% Workforce, Unveils ‘Million-Dollar Salary Bands’ For T...",
+      "title": "Google Search Is Becoming Something Fundamentally Differe...",
+      "summary": "## AI updates coming to Search Robby Stein, Google's vice president of product for Search, framed...",
       "importance": 3,
-      "source": "https://www.timesnownews.com/business-economy/companies/tech-layoffs-clickup-cuts-22-workforce-unveils-million-dollar-salary-bands-for-top-ai-talent-article-154382730",
-      "published_at": "2026-05-23T07:00:00"
+      "source": "https://www.cnet.com/tech/services-and-software/google-search-is-becoming-something-fundamentally-different-heres-what-that-looks-like/",
+      "published_at": "2026-05-24T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "OpenAI posts job to prepare for self-training AI - Let's...",
-      "summary": "### What happened [...] investment in alignment and operational safeguards for advanced capabilit...",
+      "title": "Elon Musk’s Dreams of Interplanetary Profit | Technology...",
+      "summary": "Triple Trillion? It all happened in one day. SpaceX disclosed its IPO plans, the Journal broke ne...",
       "importance": 5,
-      "source": "https://letsdatascience.com/news/openai-posts-job-to-prepare-for-self-training-ai-8d180686",
-      "published_at": "2026-05-23T07:00:00"
+      "source": "https://www.wsj.com/tech/ai/musk-dreams-of-interplanetary-profit-637e60f6",
+      "published_at": "2026-05-24T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "Google Just Triggered a $1 Billion AI Price War: Does It...",
-      "summary": "ByChris Neiger – May 22, 2026 at 6:45PM EST ## Key Points Alphabet said recently that enterprise...",
+      "title": "Could anything but profit steer AI? The OpenAI trial offe...",
+      "summary": "Democracy Dies in Darkness # Could anything but profit steer AI? The OpenAI trial offered clues b...",
       "importance": 4,
-      "source": "https://www.fool.com/investing/2026/05/22/google-just-triggered-a-1-billion-ai-price-war-doe/",
-      "published_at": "2026-05-23T07:00:00"
+      "source": "https://www.washingtonpost.com/business/2026/05/24/openai-trial-musk-altman-ipo/2d460216-5725-11f1-9c40-7a0a12d9e745_story.html",
+      "published_at": "2026-05-24T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "'I got drafted': Inside Meta's push to move 7,000 staff i...",
-      "summary": "document reveals Meta's AI targets– Google pushes more employees to use AI, and not just engineer...",
+      "title": "Google CEO Sundar Pichai says booing graduates will shape...",
+      "summary": "At least a dozen major companies have cited increased efficiency from AI as a factor in their dec...",
       "importance": 4,
-      "source": "https://www.businessinsider.com/meta-ai-task-force-workers-2026-5",
-      "published_at": "2026-05-23T07:00:00"
+      "source": "https://www.businessinsider.com/sundar-pichai-google-graduation-speech-stanford-ai-backlash-eric-schmidt",
+      "published_at": "2026-05-24T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "Elon Musk's SpaceX IPO filing just told us what business...",
-      "summary": "By Emma BurleighMay 22, 2026 22 hours ago Success Despite a $500 million net worth, Shaq just fin...",
+      "title": "AI Video Parodies Michael Scott Onboarding Andrej Karpath...",
+      "summary": "Top Latest Login or Signup to see what people on X are saying about this ## New to X? Sign up now...",
       "importance": 3,
-      "source": "https://fortune.com/2026/05/23/what-business-is-space-x-in-ipo-filing-stock/",
-      "published_at": "2026-05-23T07:00:00"
-    },
-    {
-      "category": "bigtech",
-      "title": "SpaceX, OpenAI and Anthropic IPOs set to test limits of A...",
-      "summary": "Accessibility help Skip to navigation Skip to main content Skip to footer # SpaceX, OpenAI and An...",
-      "importance": 3,
-      "source": "https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12?syn-25a6b1a6=1",
-      "published_at": "2026-05-23T07:00:00"
+      "source": "https://x.com/i/trending/2058614852508405863",
+      "published_at": "2026-05-24T07:00:00"
     }
   ]
 }
