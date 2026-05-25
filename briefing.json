@@ -1,122 +1,90 @@
 {
-  "date": "2026-05-24",
-  "generated_at": "2026-05-24T21:18:43.609504",
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T21:25:36.988872",
   "period": {
-    "from": "2026-05-23T07:00:00",
-    "to": "2026-05-24T07:00:00"
+    "from": "2026-05-24T07:00:00",
+    "to": "2026-05-25T07:00:00"
   },
   "items": [
     {
       "category": "new_models",
-      "title": "SpaceX, Nvidia, OpenAI, Anthropic: We just got the latest...",
-      "summary": "The second time I had that feeling was this past Wednesday. If the release of ChatGPT in November...",
+      "title": "Google debuts AI‑first Search with Gemini 3.5 and always‑...",
+      "summary": "feature will first launch in the United States later this summer, with a broader international ro...",
       "importance": 5,
-      "source": "https://www.businessinsider.com/spacex-nvidia-openai-anthropic-ai-covid-shutdown-moment-2026-5",
-      "published_at": "2026-05-24T07:00:00"
+      "source": "https://mlq.ai/news/google-debuts-aifirst-search-with-gemini-35-and-alwayson-information-agents/",
+      "published_at": "2026-05-25T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Apple Preparing New 'Gen AI' Website Ahead of WWDC - MacR...",
-      "summary": "Score: 2 Votes (Like | Disagree) N Nyx1 3 hours ago at 03:05 pm Apple will not be sued again for...",
+      "title": "The top 5 creative campaigns to know about right now - Ad...",
+      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More Top 5 # The top 5 creative campaign...",
       "importance": 4,
-      "source": "https://www.macrumors.com/2026/05/23/apple-gen-ai-subdomain/",
-      "published_at": "2026-05-24T07:00:00"
+      "source": "https://adage.com/creativity/campaigns-commercials/aa-best-creative-ads-finch-streeteasy-coinbase/",
+      "published_at": "2026-05-25T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Apple registers new ‘gen AI’ subdomain ahead of next mont...",
-      "summary": "Go to the 9to5Mac home page AAPL Company Siri Apple Intelligence iOS 27 # Apple registers new ‘ge...",
+      "title": "iTnews State of Data & AI Breakfast - iTnews",
+      "summary": "Latest News ## From test case to control tower: How DXC and ServiceNow are governing enterprise A...",
       "importance": 4,
-      "source": "https://9to5mac.com/2026/05/23/apple-new-gen-ai-subdomain-ahead-of-wwdc/",
-      "published_at": "2026-05-24T07:00:00"
+      "source": "https://www.itnews.com.au/event/itnews-state-of-data-ai-breakfast-626107",
+      "published_at": "2026-05-25T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Generative AI Helps Address Situational Depression - Let'...",
-      "summary": "Practice with real Health & Insurancedata 90SQL & Python problems · 15 industry datasets Used by...",
+      "title": "Edge engineering enables physical AI in vehicles - Let's...",
+      "summary": "Used by DS/ML engineers at top companies Active Search Campaigns by BudgetEasyHigh CPC Clicks & P...",
       "importance": 3,
-      "source": "https://letsdatascience.com/news/generative-ai-helps-address-situational-depression-140d88f0",
-      "published_at": "2026-05-24T07:00:00"
+      "source": "https://letsdatascience.com/news/edge-engineering-enables-physical-ai-in-vehicles-2ff1a390",
+      "published_at": "2026-05-25T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "AI-Driven Manufacturing Advances Support U.S. Healthcare...",
-      "summary": "About Contact Subscribe e-Edition Make Home Page Sign Up Log In Dashboard Logout + My Account + D...",
+      "title": "Axios C-Suite: What Jim learned for the week of May 23 -...",
+      "summary": "Skip to main content Axios 6 mins ago - Business # Axios C-Suite: What Jim learned for the week o...",
       "importance": 3,
-      "source": "https://markets.chroniclejournal.com/chroniclejournal/article/abnewswire-2026-5-24-ai-driven-manufacturing-advances-support-us-healthcare-systems-engineers-work-reflects-broader-industry-shift",
-      "published_at": "2026-05-24T07:00:00"
+      "source": "https://www.axios.com/2026/05/25/trump-ai-executive-order-fallout-david-sacks",
+      "published_at": "2026-05-25T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Microsoft's new Copilot turns into a Windows 11 sidebar t...",
-      "summary": "The idea is similar to the original Windows 11 Copilot experience, where AI lived alongside your...",
+      "title": "AI-Driven Workforce Shifts Reshape Office Demand - Commer...",
+      "summary": "Read the fullYardi Matrix office report. Yardi Matrix ## Most Recent Image 11: Crowded street wit...",
       "importance": 5,
-      "source": "https://www.windowslatest.com/2026/05/24/microsofts-new-copilot-turns-into-a-windows-11-sidebar-that-pushes-your-apps-aside-to-make-room/",
-      "published_at": "2026-05-24T07:00:00"
+      "source": "https://www.commercialsearch.com/news/ai-driven-workforce-shifts-reshape-office-demand/",
+      "published_at": "2026-05-25T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Small Business Technology News From Epicor, Google, Micro...",
-      "summary": "This year’s Google I/O 2026 was a major statement of the company’s aggressive development of AI....",
+      "title": "From test case to control tower: How DXC and ServiceNow a...",
+      "summary": "DXC deployed the Agentic Control Tower internally first because we needed to know it works at sca...",
       "importance": 4,
-      "source": "https://www.forbes.com/sites/quickerbettertech/2026/05/24/small-business-technology-news-from-epicor-google-microsoft-boston-dynamics-and-claude/",
-      "published_at": "2026-05-24T07:00:00"
+      "source": "https://www.itnews.com.au/feature/from-test-case-to-control-tower-how-dxc-and-servicenow-are-governing-enterprise-ai-at-scale-626034",
+      "published_at": "2026-05-25T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "CEOs Expect AI-Driven Layoffs Over Next Two Years - Let's...",
-      "summary": "### Industry context Gizmodo reports experts are conflicted over whether current AI initiatives a...",
+      "title": "Meta Reveals 20% Workforce Shift In May 2026 – Why AR Tea...",
+      "summary": "## The numbers that change the game for AR and AI at Meta | KPI | Value + Unit | Change/Impact |...",
       "importance": 4,
-      "source": "https://letsdatascience.com/news/ceos-expect-ai-driven-layoffs-over-next-two-years-91de036e",
-      "published_at": "2026-05-24T07:00:00"
+      "source": "https://glassalmanac.com/meta-reveals-20-workforce-shift-in-may-2026-why-ar-teams-face-a-shake-up/",
+      "published_at": "2026-05-25T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Meta Layoffs: Former Content Designer Voluntarily Exits C...",
-      "summary": "Narendra Modi Silver Price Kerala Lottery Results ## You May Also Like India ### Manali Traffic V...",
+      "title": "Snapfix Launches AI-Powered Housekeeping Module to Transf...",
+      "summary": "The results are tangible. Hotels using Snapfix Housekeeping can expect rooms available up to two...",
       "importance": 3,
-      "source": "https://www.latestly.com/technology/meta-layoffs-former-content-designer-voluntarily-exits-company-during-latest-workforce-restructuring-shares-post-7444872.html",
-      "published_at": "2026-05-24T07:00:00"
-    },
-    {
-      "category": "productivity",
-      "title": "Google Search Is Becoming Something Fundamentally Differe...",
-      "summary": "## AI updates coming to Search Robby Stein, Google's vice president of product for Search, framed...",
-      "importance": 3,
-      "source": "https://www.cnet.com/tech/services-and-software/google-search-is-becoming-something-fundamentally-different-heres-what-that-looks-like/",
-      "published_at": "2026-05-24T07:00:00"
+      "source": "https://www.hospitalitynet.org/news/4132592/snapfix-launches-ai-powered-housekeeping-module-to-transform-hotel-room-turns-in-real-time",
+      "published_at": "2026-05-25T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "Elon Musk’s Dreams of Interplanetary Profit | Technology...",
-      "summary": "Triple Trillion? It all happened in one day. SpaceX disclosed its IPO plans, the Journal broke ne...",
+      "title": "Сунъий интеллект хавфсизлиги: Google ҳам янги ечимлар изл...",
+      "summary": "## Most read Technology news 10-Hour Competition Between Figure AI Robots and Humans Meta launche...",
       "importance": 5,
-      "source": "https://www.wsj.com/tech/ai/musk-dreams-of-interplanetary-profit-637e60f6",
-      "published_at": "2026-05-24T07:00:00"
-    },
-    {
-      "category": "bigtech",
-      "title": "Could anything but profit steer AI? The OpenAI trial offe...",
-      "summary": "Democracy Dies in Darkness # Could anything but profit steer AI? The OpenAI trial offered clues b...",
-      "importance": 4,
-      "source": "https://www.washingtonpost.com/business/2026/05/24/openai-trial-musk-altman-ipo/2d460216-5725-11f1-9c40-7a0a12d9e745_story.html",
-      "published_at": "2026-05-24T07:00:00"
-    },
-    {
-      "category": "bigtech",
-      "title": "Google CEO Sundar Pichai says booing graduates will shape...",
-      "summary": "At least a dozen major companies have cited increased efficiency from AI as a factor in their dec...",
-      "importance": 4,
-      "source": "https://www.businessinsider.com/sundar-pichai-google-graduation-speech-stanford-ai-backlash-eric-schmidt",
-      "published_at": "2026-05-24T07:00:00"
-    },
-    {
-      "category": "bigtech",
-      "title": "AI Video Parodies Michael Scott Onboarding Andrej Karpath...",
-      "summary": "Top Latest Login or Signup to see what people on X are saying about this ## New to X? Sign up now...",
-      "importance": 3,
-      "source": "https://x.com/i/trending/2058614852508405863",
-      "published_at": "2026-05-24T07:00:00"
+      "source": "https://zamin.uz/en/technology/203166-ai-security-google-is-also-seeking-new-solutions.html",
+      "published_at": "2026-05-25T07:00:00"
     }
   ]
 }
