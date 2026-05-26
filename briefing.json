@@ -1,90 +1,130 @@
 {
-  "date": "2026-05-25",
-  "generated_at": "2026-05-25T21:25:36.988872",
+  "date": "2026-05-26",
+  "generated_at": "2026-05-26T21:32:47.077241",
   "period": {
-    "from": "2026-05-24T07:00:00",
-    "to": "2026-05-25T07:00:00"
+    "from": "2026-05-25T07:00:00",
+    "to": "2026-05-26T07:00:00"
   },
   "items": [
     {
       "category": "new_models",
-      "title": "Google debuts AI‑first Search with Gemini 3.5 and always‑...",
-      "summary": "feature will first launch in the United States later this summer, with a broader international ro...",
+      "title": "How Unilever is using AI to become the ‘superior’ beauty...",
+      "summary": "# How Unilever is using AI to become the ‘superior’ beauty player in 2026 By Alessandro Carrara |...",
       "importance": 5,
-      "source": "https://mlq.ai/news/google-debuts-aifirst-search-with-gemini-35-and-alwayson-information-agents/",
-      "published_at": "2026-05-25T07:00:00"
+      "source": "https://cosmeticsbusiness.com/how-unilever-is-using-artificial-intelligence-2026",
+      "published_at": "2026-05-26T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "The top 5 creative campaigns to know about right now - Ad...",
-      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More Top 5 # The top 5 creative campaign...",
+      "title": "Samsung Galaxy A17 starts getting the One UI 8.5 update -...",
+      "summary": "vacuum cleaners Bespoke Jet Bot vacuum with and without AI, what's the difference? Be aware: Sams...",
       "importance": 4,
-      "source": "https://adage.com/creativity/campaigns-commercials/aa-best-creative-ads-finch-streeteasy-coinbase/",
-      "published_at": "2026-05-25T07:00:00"
+      "source": "https://www.sammobile.com/news/galaxy-a17-one-ui-8-5-update-released/",
+      "published_at": "2026-05-26T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "iTnews State of Data & AI Breakfast - iTnews",
-      "summary": "Latest News ## From test case to control tower: How DXC and ServiceNow are governing enterprise A...",
+      "title": "SpaceX’s AI Pursuits Have Yet to Take Off - WSJ",
+      "summary": "World Business U.S. Politics Economy Tech Markets & Finance Opinion Free Expression Arts Lifestyl...",
       "importance": 4,
-      "source": "https://www.itnews.com.au/event/itnews-state-of-data-ai-breakfast-626107",
-      "published_at": "2026-05-25T07:00:00"
+      "source": "https://www.wsj.com/tech/ai/spacexs-ai-pursuits-have-yet-to-take-off-3c25e91e",
+      "published_at": "2026-05-26T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Edge engineering enables physical AI in vehicles - Let's...",
-      "summary": "Used by DS/ML engineers at top companies Active Search Campaigns by BudgetEasyHigh CPC Clicks & P...",
+      "title": "South Africa targets January 2027 for revised AI policy a...",
+      "summary": "Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv Su...",
       "importance": 3,
-      "source": "https://letsdatascience.com/news/edge-engineering-enables-physical-ai-in-vehicles-2ff1a390",
-      "published_at": "2026-05-25T07:00:00"
+      "source": "https://www.reuters.com/world/africa/south-africa-targets-january-2027-revised-ai-policy-after-earlier-withdrawal-2026-05-26/",
+      "published_at": "2026-05-26T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Axios C-Suite: What Jim learned for the week of May 23 -...",
-      "summary": "Skip to main content Axios 6 mins ago - Business # Axios C-Suite: What Jim learned for the week o...",
+      "title": "Asian shares and oil prices are mixed after US launches s...",
+      "summary": "3 of 5 | People walk in front of an electronic stock board showing Japan’s Nikkei index at a secu...",
       "importance": 3,
-      "source": "https://www.axios.com/2026/05/25/trump-ai-executive-order-fallout-david-sacks",
-      "published_at": "2026-05-25T07:00:00"
+      "source": "https://apnews.com/article/stocks-markets-iran-trump-oil-71cc7b49f2ca3462a118878c93c75940",
+      "published_at": "2026-05-26T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "AI-Driven Workforce Shifts Reshape Office Demand - Commer...",
-      "summary": "Read the fullYardi Matrix office report. Yardi Matrix ## Most Recent Image 11: Crowded street wit...",
+      "title": "Binance Invests in Workforce Capability as AI Reshapes th...",
+      "summary": "Embracing AI Adoption, Building AI Literacy To date, we’ve already integrated proprietary tools l...",
       "importance": 5,
-      "source": "https://www.commercialsearch.com/news/ai-driven-workforce-shifts-reshape-office-demand/",
-      "published_at": "2026-05-25T07:00:00"
+      "source": "https://markets.financialcontent.com/stocks/article/marketersmedia-2026-5-26-binance-invests-in-workforce-capability-as-ai-reshapes-the-job-market",
+      "published_at": "2026-05-26T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "From test case to control tower: How DXC and ServiceNow a...",
-      "summary": "DXC deployed the Agentic Control Tower internally first because we needed to know it works at sca...",
+      "title": "Binance Invests in Workforce Capability as AI Reshapes th...",
+      "summary": "Embracing AI Adoption, Building AI Literacy To date, we’ve already integrated proprietary tools l...",
       "importance": 4,
-      "source": "https://www.itnews.com.au/feature/from-test-case-to-control-tower-how-dxc-and-servicenow-are-governing-enterprise-ai-at-scale-626034",
-      "published_at": "2026-05-25T07:00:00"
+      "source": "https://aijourn.com/binance-invests-in-workforce-capability-as-ai-reshapes-the-job-market/",
+      "published_at": "2026-05-26T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Meta Reveals 20% Workforce Shift In May 2026 – Why AR Tea...",
-      "summary": "## The numbers that change the game for AR and AI at Meta | KPI | Value + Unit | Change/Impact |...",
+      "title": "Binance Invests in Workforce Capability as AI Reshapes th...",
+      "summary": "Embracing AI Adoption, Building AI Literacy To date, we've already integrated proprietary tools l...",
       "importance": 4,
-      "source": "https://glassalmanac.com/meta-reveals-20-workforce-shift-in-may-2026-why-ar-teams-face-a-shake-up/",
-      "published_at": "2026-05-25T07:00:00"
+      "source": "https://www.openpr.com/news/4527292/binance-invests-in-workforce-capability-as-ai-reshapes-the-job",
+      "published_at": "2026-05-26T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Snapfix Launches AI-Powered Housekeeping Module to Transf...",
-      "summary": "The results are tangible. Hotels using Snapfix Housekeeping can expect rooms available up to two...",
+      "title": "Technology News | ⚡Website-Building Platform Wix To Elimi...",
+      "summary": "Read Full Story Related Stories iPhone 18 Pro Max To Be Launched Soon; 5 Massive Under-the-Hood U...",
       "importance": 3,
-      "source": "https://www.hospitalitynet.org/news/4132592/snapfix-launches-ai-powered-housekeeping-module-to-transform-hotel-room-turns-in-real-time",
-      "published_at": "2026-05-25T07:00:00"
+      "source": "https://www.latestly.com/quickly/technology/website-building-platform-wix-to-eliminate-20-of-workforce-citing-advancements-in-ai-7447340.html",
+      "published_at": "2026-05-26T07:00:00"
+    },
+    {
+      "category": "productivity",
+      "title": "ClickUp Lays Off 22% of Staff, Deploys 3,000 AI Agents in...",
+      "summary": "### Further Sources thenextweb.com fortune.com businesstoday.in techcrunch.com aiweekly.co Writte...",
+      "importance": 3,
+      "source": "https://mlq.ai/news/clickup-lays-off-22-of-staff-deploys-3000-ai-agents-in-radical-restructuring/",
+      "published_at": "2026-05-26T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "Сунъий интеллект хавфсизлиги: Google ҳам янги ечимлар изл...",
-      "summary": "## Most read Technology news 10-Hour Competition Between Figure AI Robots and Humans Meta launche...",
+      "title": "OpenAI Hires ServiceNow CMO Colin Fleming to Lead Busines...",
+      "summary": "By Mark Stenberg #### Google Challenges Amazon With New Native Checkout, Rolls Out AI Ad ‘Explain...",
       "importance": 5,
-      "source": "https://zamin.uz/en/technology/203166-ai-security-google-is-also-seeking-new-solutions.html",
-      "published_at": "2026-05-25T07:00:00"
+      "source": "https://www.adweek.com/media/openai-hires-servicenow-cmo-colin-fleming-to-lead-business-marketing-push/",
+      "published_at": "2026-05-26T07:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "Musk and Altman’s AI rivalry reaches boiling point as IPO...",
+      "summary": "Gemini Spark may strike you as sinister in character but convenient in reality. You may not like...",
+      "importance": 4,
+      "source": "https://www.theguardian.com/technology/2026/may/25/musk-altman-ai-rivalry-ipo",
+      "published_at": "2026-05-26T07:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "OpenAI Is Hiring For A Top Marketing Exec To Promote Its...",
+      "summary": "Newsletters & alerts Become a Member Join TVN Plus Related Stories ### Thousands Of Journalists’...",
+      "importance": 4,
+      "source": "https://tvnewscheck.com/ai/article/openai-is-hiring-for-a-top-marketing-exec-to-promote-its-ads-business/",
+      "published_at": "2026-05-26T07:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "Too dangerous to release: is Mythos the start of the rest...",
+      "summary": "Job Title: Associate or Senior Editor, Nature Mechanical Engineering Location: Shanghai, Beijing,...",
+      "importance": 3,
+      "source": "https://www.nature.com/articles/d41586-026-01617-2",
+      "published_at": "2026-05-26T07:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "The Missing Moat In AI: Your Eval Data - Yahoo News Canada",
+      "summary": "## User Access: Google Shows Off This year’s I/O was all about user access. Google poured AI onto...",
+      "importance": 3,
+      "source": "https://ca.news.yahoo.com/missing-moat-ai-eval-data-160032646.html",
+      "published_at": "2026-05-26T07:00:00"
     }
   ]
 }
