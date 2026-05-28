@@ -1,114 +1,130 @@
 {
-  "date": "2026-05-27",
-  "generated_at": "2026-05-27T21:34:27.593872",
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T21:38:00.455777",
   "period": {
-    "from": "2026-05-26T07:00:00",
-    "to": "2026-05-27T07:00:00"
+    "from": "2026-05-27T07:00:00",
+    "to": "2026-05-28T07:00:00"
   },
   "items": [
     {
       "category": "new_models",
-      "title": "SecurityWeek to Host AI Risk Summit August 11-12 at the R...",
-      "summary": "Destiny Tech100 launches $1 billion stock offering program AppLovin may face reduced near-term pr...",
+      "title": "Google DeepMind CEO Demis Hassabis stated that while he p...",
+      "summary": "Anthropic develops 'Claude Mythos Preview,' an AI with extremely high cyberattack capabilities, a...",
       "importance": 5,
-      "source": "https://www.streetinsider.com/PRNewswire/SecurityWeek+to+Host+AI+Risk+Summit+August+11-12+at+the+Ritz-Carlton%2C+Half+Moon+Bay+CA/26553983.html",
-      "published_at": "2026-05-27T07:00:00"
+      "source": "https://gigazine.net/gsc_news/en/20260528-google-deepmind-ceo-demis-hassabis-agi-2030",
+      "published_at": "2026-05-28T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "SecurityWeek to Host AI Risk Summit August 11-12 at the R...",
-      "summary": "Accessibility Statement Skip Navigation # SecurityWeek to Host AI Risk Summit August 11-12 at the...",
+      "title": "U.S.-China AI Rivalry Enters a New Strategic Stalemate -...",
+      "summary": "Write New Story # U.S.-China AI Rivalry Enters a New Strategic Stalemate by bytt@ttassos Anastasi...",
       "importance": 4,
-      "source": "https://www.prnewswire.com/news-releases/securityweek-to-host-ai-risk-summit-august-11-12-at-the-ritz-carlton-half-moon-bay-ca-302783094.html",
-      "published_at": "2026-05-27T07:00:00"
+      "source": "https://hackernoon.com/us-china-ai-rivalry-enters-a-new-strategic-stalemate",
+      "published_at": "2026-05-28T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "“It Will Be A Profound Moment For Humanity” Sparks AI‑AR...",
-      "summary": "The quote came from Demis Hassabis, chief of DeepMind, during Google’s I/O coverage; he framed Ge...",
+      "title": "Can AI help build a fairer food system from farm to plate...",
+      "summary": "Chicago Toshniwal Paharia, Pooja Toshniwal Paharia. \"Can AI help build a fairer food system from...",
       "importance": 4,
-      "source": "https://glassalmanac.com/it-will-be-a-profound-moment-for-humanity-sparks-ai%E2%80%91ar-debate-in-2025-heres-why/",
-      "published_at": "2026-05-27T07:00:00"
+      "source": "https://www.news-medical.net/news/20260527/Can-AI-help-build-a-fairer-food-system-from-farm-to-plate.aspx",
+      "published_at": "2026-05-28T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "CubePart 3D Generator - CNET",
-      "summary": "CubePart 3D Generator # CubePart 3D Generator Tech An Open-Vocabuiary Part-Controllable 3D Genera...",
+      "title": "Drone Mapping Use Case Highlights DJI’s Enterprise Adopti...",
+      "summary": "Image 45: Radhika Saraogi[Premium ### Nvidia (NVDA) and Micron (MU) Could Power One-Third of S&P...",
       "importance": 3,
-      "source": "https://www.cnet.com/videos/cubepart-3d-generator/",
-      "published_at": "2026-05-27T07:00:00"
+      "source": "https://www.tipranks.com/news/private-companies/drone-mapping-use-case-highlights-djis-enterprise-adoption-in-agriculture",
+      "published_at": "2026-05-28T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "MedTech Innovator Unveils 65 Startups in its 2026 Acceler...",
-      "summary": "Contacts Media Contact Samantha Black MedTech Innovator sam.black@medtechinnovator.org Twitter Li...",
+      "title": "The Anti-Amazon: How Bookshop.org Raised $57 Million For...",
+      "summary": "52 All-American Summer Getaways 3d ago BREAKING Trump Blasts ‘Losers’ Criticizing Potential Iran...",
       "importance": 3,
-      "source": "https://www.biospace.com/press-releases/medtech-innovator-unveils-65-startups-in-its-2026-accelerator-cohort-and-launches-the-mti-index-the-definitive-recognition-platform-for-medtech-innovation",
-      "published_at": "2026-05-27T07:00:00"
+      "source": "https://www.forbes.com/video/b6d302d7-83f9-4202-9a51-f21c68ebed56/",
+      "published_at": "2026-05-28T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Google I/O 2026: tech giant launches autonomous AI era, t...",
-      "summary": "### The big advantage for Google The announcements of Spark and Gemini Omni reveal Google’s stron...",
+      "title": "Introducing Claude Opus 4.8 - Anthropic",
+      "summary": "Skip to footer Try Claude ProductAnnouncements # Introducing Claude Opus 4.8 May 28, 2026 We’re u...",
       "importance": 5,
-      "source": "https://www.ynetnews.com/tech-and-digital/article/ry3qypmlzl",
-      "published_at": "2026-05-27T07:00:00"
+      "source": "https://www.anthropic.com/news/claude-opus-4-8",
+      "published_at": "2026-05-28T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Legal Professionals Increasingly See AI as a Job Generato...",
-      "summary": "May 21, 2026 ## Harvey Announces Contract Review Product, Adoption Analytics Features Benjamin Jo...",
+      "title": "Anthropic upgrades Claude with new Opus 4.8 model, here’s...",
+      "summary": "Go to the 9to5Mac home page AI Claude Anthropic # Anthropic upgrades Claude with new Opus 4.8 mod...",
       "importance": 4,
-      "source": "https://www.law.com/legaltechnews/2026/05/27/legal-professionals-increasingly-see-ai-as-a-job-generator/",
-      "published_at": "2026-05-27T07:00:00"
+      "source": "https://9to5mac.com/2026/05/28/anthropic-upgrades-claude-with-new-opus-4-8-model-heres-whats-new/",
+      "published_at": "2026-05-28T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "SuccessKPI Recognized Among Top Workforce Management Prov...",
-      "summary": "Accessibility: Skip TopNav # SuccessKPI Recognized Among Top Workforce Management Providers in Ne...",
+      "title": "America's Workforce Solution, LLC Assessed \"Awardable\" fo...",
+      "summary": "| Country(s) United States Australia India Hong Kong England China - - - More Countries Industry...",
       "importance": 4,
-      "source": "https://www.globenewswire.com/news-release/2026/05/27/3302018/0/en/successkpi-recognized-among-top-workforce-management-providers-in-new-dmg-report.html",
-      "published_at": "2026-05-27T07:00:00"
+      "source": "https://www.prlog.org/13148538-americas-workforce-solution-llc-assessed-awardable-for-department-of-war-work-in-the-cdaos-tradewinds-solutions-marketplace.html",
+      "published_at": "2026-05-28T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "HELIAUS Gov Wins 2026 GOVIES Award for AI-Powered Securit...",
-      "summary": "Back to the Newsroom # HELIAUS Gov Wins 2026 GOVIES Award for AI-Powered Security Workforce Manag...",
+      "title": "The AI Governance Gap: Verizon's 2026 DBIR Shows Attacker...",
+      "summary": "UK AI Security Institute, “How Fast Is Autonomous AI Cyber Capability Advancing,” May 2026, Palo...",
       "importance": 3,
-      "source": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/heliaus-gov-wins-2026-govies-award-for-ai-powered-security-workf-1170703",
-      "published_at": "2026-05-27T07:00:00"
+      "source": "https://securityboulevard.com/2026/05/the-ai-governance-gap-verizons-2026-dbir-shows-attackers-scaling-ai-while-employees-leak-data-through-it/",
+      "published_at": "2026-05-28T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "HELIAUS Gov Wins 2026 GOVIES Award for AI-Powered Securit...",
-      "summary": "#### Log in to your account: Signup Home EPS Insider Event Calendar Conferences Classic Site Upgr...",
+      "title": "Industrial maintenance teams get digital workers - The Ma...",
+      "summary": "## FAQs What are Ultimo’s new digital workers designed to do? How do the digital workers integrat...",
       "importance": 3,
-      "source": "https://www.streetinsider.com/dr/news.php?id=26554534",
-      "published_at": "2026-05-27T07:00:00"
+      "source": "https://www.themanufacturer.com/articles/industrial-maintenance-teams-get-digital-workers/",
+      "published_at": "2026-05-28T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "OpenAI heralds cybersecurity, election interference safeg...",
-      "summary": "Some elements of OpenAI’s plans aren’t new so much as it’s taking pieces from other announcements...",
+      "title": "AI Giants Bet Billions On The Most Expensive Job In Enter...",
+      "summary": "The move makes Meta the latest major AI company in a 13-week run of deployment-heavy enterprise a...",
       "importance": 5,
-      "source": "https://cyberscoop.com/openai-2026-election-security-plans/",
-      "published_at": "2026-05-27T07:00:00"
+      "source": "https://www.forbes.com/sites/janakirammsv/2026/05/28/ai-giants-bet-billions-on-the-most-expensive-job-in-enterprise/",
+      "published_at": "2026-05-28T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "A maturing OpenAI splits marketing duties between two CMO...",
-      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More AI # A maturing OpenAI splits marke...",
+      "title": "AI Giants Bet Billions On The Most Expensive Job In Enter...",
+      "summary": "The move makes Meta the latest major AI company in a 13-week run of deployment-heavy enterprise a...",
       "importance": 4,
-      "source": "https://adage.com/technology/ai/aa-openai-splits-marketing-duties-two-cmo-roles/",
-      "published_at": "2026-05-27T07:00:00"
+      "source": "https://malaysia.news.yahoo.com/ai-giants-bet-billions-most-041000568.html",
+      "published_at": "2026-05-28T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "AI Weekly: predictions on jobs, $1 trillion market values...",
-      "summary": "### 01:13 Croatia's Verne launches Robotaxi, Europe's first driverless cab ### 02:21 The Week in...",
+      "title": "New details on Apple-Google AI deal revealed, including N...",
+      "summary": "Go to the 9to5Mac home page Apple Intelligence # New details on Apple-Google AI deal revealed, in...",
       "importance": 4,
-      "source": "https://www.reuters.com/video/watch/idRW388927052026RP1/?chan=technology",
-      "published_at": "2026-05-27T07:00:00"
+      "source": "https://9to5mac.com/2026/05/28/new-details-on-apple-google-ai-deal-revealed-including-nvidia-chips-report/",
+      "published_at": "2026-05-28T07:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "Anthropic tops OpenAI as most valuable AI startup, nears...",
+      "summary": "David Spiegel Read More [...] \"Claude is increasingly indispensable to our growing global communi...",
+      "importance": 3,
+      "source": "https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html",
+      "published_at": "2026-05-28T07:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "This AI stock is surging after an ex-OpenAI employee's fu...",
+      "summary": "Sawdah Bhaimiya WATCH LIVE Key Points Nebius popped in premarket trading after a former OpenAI em...",
+      "importance": 3,
+      "source": "https://www.cnbc.com/2026/05/28/nebius-situational-awareness-ai-stock-ex-openai-stake.html",
+      "published_at": "2026-05-28T07:00:00"
     }
   ]
 }
