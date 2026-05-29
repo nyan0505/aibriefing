@@ -1,130 +1,122 @@
 {
-  "date": "2026-05-28",
-  "generated_at": "2026-05-28T21:38:00.455777",
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T21:34:10.973177",
   "period": {
-    "from": "2026-05-27T07:00:00",
-    "to": "2026-05-28T07:00:00"
+    "from": "2026-05-28T07:00:00",
+    "to": "2026-05-29T07:00:00"
   },
   "items": [
     {
       "category": "new_models",
-      "title": "Google DeepMind CEO Demis Hassabis stated that while he p...",
-      "summary": "Anthropic develops 'Claude Mythos Preview,' an AI with extremely high cyberattack capabilities, a...",
+      "title": "Big Tech Goldilocks AI Strategies: Large, Medium, Small &...",
+      "summary": "The Information laid out the Anthropic detail — “Anthropic releases new flagship AI model” — conf...",
       "importance": 5,
-      "source": "https://gigazine.net/gsc_news/en/20260528-google-deepmind-ceo-demis-hassabis-agi-2030",
-      "published_at": "2026-05-28T07:00:00"
+      "source": "https://michaelparekh.substack.com/p/big-tech-goldilocks-ai-strategies",
+      "published_at": "2026-05-29T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "U.S.-China AI Rivalry Enters a New Strategic Stalemate -...",
-      "summary": "Write New Story # U.S.-China AI Rivalry Enters a New Strategic Stalemate by bytt@ttassos Anastasi...",
+      "title": "May 2026: Top five AI stories of the month - FinTech Futures",
+      "summary": "As per a statement posted by the bank: \"BNP Paribas and Mistral AI’s science applied AI and engin...",
       "importance": 4,
-      "source": "https://hackernoon.com/us-china-ai-rivalry-enters-a-new-strategic-stalemate",
-      "published_at": "2026-05-28T07:00:00"
+      "source": "https://www.fintechfutures.com/ai-in-fintech/may-2026-top-five-ai-stories-of-the-month",
+      "published_at": "2026-05-29T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Can AI help build a fairer food system from farm to plate...",
-      "summary": "Chicago Toshniwal Paharia, Pooja Toshniwal Paharia. \"Can AI help build a fairer food system from...",
+      "title": "Tesla Cybercab Self-Driving: Elon Musk Shares Video of Ro...",
+      "summary": "Friday, May 29, 2026 Live Breaking News: Menu Home Socially # Tesla Cybercab Self-Driving: Elon M...",
       "importance": 4,
-      "source": "https://www.news-medical.net/news/20260527/Can-AI-help-build-a-fairer-food-system-from-farm-to-plate.aspx",
-      "published_at": "2026-05-28T07:00:00"
+      "source": "https://www.latestly.com/socially/auto/tesla-cybercab-self-driving-elon-musk-shares-video-of-robotaxi-autonomously-driving-out-of-giga-texas-factory-7450179.html",
+      "published_at": "2026-05-29T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Drone Mapping Use Case Highlights DJI’s Enterprise Adopti...",
-      "summary": "Image 45: Radhika Saraogi[Premium ### Nvidia (NVDA) and Micron (MU) Could Power One-Third of S&P...",
+      "title": "Retail Technology News: May Update - Chain Store Age",
+      "summary": "Dick’s Sporting Goods rolling out Agentic AI 'coaches' in JuneDick’s Sporting Goods is partnering...",
       "importance": 3,
-      "source": "https://www.tipranks.com/news/private-companies/drone-mapping-use-case-highlights-djis-enterprise-adoption-in-agriculture",
-      "published_at": "2026-05-28T07:00:00"
+      "source": "https://chainstoreage.com/retail-technology-news-may-update-1",
+      "published_at": "2026-05-29T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "The Anti-Amazon: How Bookshop.org Raised $57 Million For...",
-      "summary": "52 All-American Summer Getaways 3d ago BREAKING Trump Blasts ‘Losers’ Criticizing Potential Iran...",
+      "title": "Best campaign of May 2026: Air Transat - Ad Age",
+      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More Top 5 # The best campaign of May 20...",
       "importance": 3,
-      "source": "https://www.forbes.com/video/b6d302d7-83f9-4202-9a51-f21c68ebed56/",
-      "published_at": "2026-05-28T07:00:00"
+      "source": "https://adage.com/creativity/campaigns-commercials/aa-best-campaign-may-2026-winner/",
+      "published_at": "2026-05-29T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Introducing Claude Opus 4.8 - Anthropic",
-      "summary": "Skip to footer Try Claude ProductAnnouncements # Introducing Claude Opus 4.8 May 28, 2026 We’re u...",
+      "title": "Microsoft Build 2026: What to Expect - CNET",
+      "summary": "## Copilot and AI agents Copilot is now the vehicle for Microsoft's AI endeavors, so we expect it...",
       "importance": 5,
-      "source": "https://www.anthropic.com/news/claude-opus-4-8",
-      "published_at": "2026-05-28T07:00:00"
+      "source": "https://www.cnet.com/tech/microsoft-build-2026-what-to-expect/",
+      "published_at": "2026-05-29T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Anthropic upgrades Claude with new Opus 4.8 model, here’s...",
-      "summary": "Go to the 9to5Mac home page AI Claude Anthropic # Anthropic upgrades Claude with new Opus 4.8 mod...",
+      "title": "Gemini Spark rolls out to Google AI Ultra in the US: How...",
+      "summary": "Go to the 9to5Google home page Apps & Updates Gemini Gemini app # Gemini Spark rolls out to Googl...",
       "importance": 4,
-      "source": "https://9to5mac.com/2026/05/28/anthropic-upgrades-claude-with-new-opus-4-8-model-heres-whats-new/",
-      "published_at": "2026-05-28T07:00:00"
+      "source": "https://9to5google.com/2026/05/29/gemini-spark-ultra-us/",
+      "published_at": "2026-05-29T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "America's Workforce Solution, LLC Assessed \"Awardable\" fo...",
-      "summary": "| Country(s) United States Australia India Hong Kong England China - - - More Countries Industry...",
+      "title": "OpenAI, Anthropic CEOs walk back AI job warnings as IPOs...",
+      "summary": "Anthropic CEO Dario Amodei last year warned that AI could eliminate up to half of entry-level whi...",
       "importance": 4,
-      "source": "https://www.prlog.org/13148538-americas-workforce-solution-llc-assessed-awardable-for-department-of-war-work-in-the-cdaos-tradewinds-solutions-marketplace.html",
-      "published_at": "2026-05-28T07:00:00"
+      "source": "https://hrexecutive.com/openai-anthropic-ceos-walk-back-ai-job-warnings-as-ipos-loom/",
+      "published_at": "2026-05-29T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "The AI Governance Gap: Verizon's 2026 DBIR Shows Attacker...",
-      "summary": "UK AI Security Institute, “How Fast Is Autonomous AI Cyber Capability Advancing,” May 2026, Palo...",
+      "title": "Eightfold AI Highlights Workforce Transformation Collabor...",
+      "summary": "Advertisement Advertisement # Eightfold AI Highlights Workforce Transformation Collaboration With...",
       "importance": 3,
-      "source": "https://securityboulevard.com/2026/05/the-ai-governance-gap-verizons-2026-dbir-shows-attackers-scaling-ai-while-employees-leak-data-through-it/",
-      "published_at": "2026-05-28T07:00:00"
+      "source": "https://www.tipranks.com/news/private-companies/eightfold-ai-highlights-workforce-transformation-collaboration-with-deloitte",
+      "published_at": "2026-05-29T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Industrial maintenance teams get digital workers - The Ma...",
-      "summary": "## FAQs What are Ultimo’s new digital workers designed to do? How do the digital workers integrat...",
+      "title": "Why fears of job losses in the AI boom may be overblown -...",
+      "summary": "Skip Navigation Markets Pre-Markets U.S. Markets Currencies Prediction Markets Cryptocurrency Fut...",
       "importance": 3,
-      "source": "https://www.themanufacturer.com/articles/industrial-maintenance-teams-get-digital-workers/",
-      "published_at": "2026-05-28T07:00:00"
+      "source": "https://www.cnbc.com/video/2026/05/29/is-indias-push-for-ai-driven-marketing-bad-news-for-the-job-market.html",
+      "published_at": "2026-05-29T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "AI Giants Bet Billions On The Most Expensive Job In Enter...",
-      "summary": "The move makes Meta the latest major AI company in a 13-week run of deployment-heavy enterprise a...",
+      "title": "Illinois representative talks bill that would regulate AI...",
+      "summary": "07:38 ## Elon Musk testifies at OpenAI trial 04:24 ## Jury selection begins in Elon Musk's trial...",
       "importance": 5,
-      "source": "https://www.forbes.com/sites/janakirammsv/2026/05/28/ai-giants-bet-billions-on-the-most-expensive-job-in-enterprise/",
-      "published_at": "2026-05-28T07:00:00"
+      "source": "https://www.nbcnews.com/video/illinois-representative-talks-bill-that-would-regulate-ai-companies-264128069529",
+      "published_at": "2026-05-29T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "AI Giants Bet Billions On The Most Expensive Job In Enter...",
-      "summary": "The move makes Meta the latest major AI company in a 13-week run of deployment-heavy enterprise a...",
+      "title": "OpenAI docuseries shows how AI gives IndyCar’s Ganassi te...",
+      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More Work # OpenAI docuseries shows how...",
       "importance": 4,
-      "source": "https://malaysia.news.yahoo.com/ai-giants-bet-billions-most-041000568.html",
-      "published_at": "2026-05-28T07:00:00"
+      "source": "https://adage.com/creativity/work/aa-openai-ganassi-indycar/",
+      "published_at": "2026-05-29T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "New details on Apple-Google AI deal revealed, including N...",
-      "summary": "Go to the 9to5Mac home page Apple Intelligence # New details on Apple-Google AI deal revealed, in...",
+      "title": "Anthropic bests OpenAI in valuation race, hitting $965B w...",
+      "summary": "AI & ML # Anthropic bests OpenAI in valuation race, hitting $965B with Series H ## The two compet...",
       "importance": 4,
-      "source": "https://9to5mac.com/2026/05/28/new-details-on-apple-google-ai-deal-revealed-including-nvidia-chips-report/",
-      "published_at": "2026-05-28T07:00:00"
+      "source": "https://pitchbook.com/news/articles/anthropic-bests-openai-in-valuation-race-hitting-965b-with-series-h",
+      "published_at": "2026-05-29T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "Anthropic tops OpenAI as most valuable AI startup, nears...",
-      "summary": "David Spiegel Read More [...] \"Claude is increasingly indispensable to our growing global communi...",
+      "title": "AMAT Stock Quote Price and Forecast - CNN",
+      "summary": "Advanced Packaging Portfolio with Acquisition of NEXX by GlobeNewswire Apr 23, 2026 7:30am ET App...",
       "importance": 3,
-      "source": "https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html",
-      "published_at": "2026-05-28T07:00:00"
-    },
-    {
-      "category": "bigtech",
-      "title": "This AI stock is surging after an ex-OpenAI employee's fu...",
-      "summary": "Sawdah Bhaimiya WATCH LIVE Key Points Nebius popped in premarket trading after a former OpenAI em...",
-      "importance": 3,
-      "source": "https://www.cnbc.com/2026/05/28/nebius-situational-awareness-ai-stock-ex-openai-stake.html",
-      "published_at": "2026-05-28T07:00:00"
+      "source": "https://www.cnn.com/markets/stocks/AMAT",
+      "published_at": "2026-05-29T07:00:00"
     }
   ]
 }
