@@ -1,122 +1,122 @@
 {
-  "date": "2026-05-29",
-  "generated_at": "2026-05-29T21:34:10.973177",
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T21:20:32.287131",
   "period": {
-    "from": "2026-05-28T07:00:00",
-    "to": "2026-05-29T07:00:00"
+    "from": "2026-05-29T07:00:00",
+    "to": "2026-05-30T07:00:00"
   },
   "items": [
     {
       "category": "new_models",
-      "title": "Big Tech Goldilocks AI Strategies: Large, Medium, Small &...",
-      "summary": "The Information laid out the Anthropic detail — “Anthropic releases new flagship AI model” — conf...",
+      "title": "VEscape Labs Launches AI Development Services Combining E...",
+      "summary": "My Markets Watchlist Markets News # VEscape Labs Launches AI Development Services Combining Engin...",
       "importance": 5,
-      "source": "https://michaelparekh.substack.com/p/big-tech-goldilocks-ai-strategies",
-      "published_at": "2026-05-29T07:00:00"
+      "source": "https://markets.businessinsider.com/news/stocks/vescape-labs-launches-ai-development-services-combining-engineering-speed-with-enterprise-oversight-1036209682",
+      "published_at": "2026-05-30T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "May 2026: Top five AI stories of the month - FinTech Futures",
-      "summary": "As per a statement posted by the bank: \"BNP Paribas and Mistral AI’s science applied AI and engin...",
+      "title": "A Famous Math Problem Stumped Humans for 80 Years. AI Jus...",
+      "summary": "Not long ago, the most advanced AI models couldn’t do basic math. By last year, they were perform...",
       "importance": 4,
-      "source": "https://www.fintechfutures.com/ai-in-fintech/may-2026-top-five-ai-stories-of-the-month",
-      "published_at": "2026-05-29T07:00:00"
+      "source": "https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84",
+      "published_at": "2026-05-30T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Tesla Cybercab Self-Driving: Elon Musk Shares Video of Ro...",
-      "summary": "Friday, May 29, 2026 Live Breaking News: Menu Home Socially # Tesla Cybercab Self-Driving: Elon M...",
+      "title": "OpenAI Model Solves Erdös Planar Unit Distance Problem -...",
+      "summary": "OpenAI announced in a public post that an internal AI model produced a proof resolving the planar...",
       "importance": 4,
-      "source": "https://www.latestly.com/socially/auto/tesla-cybercab-self-driving-elon-musk-shares-video-of-robotaxi-autonomously-driving-out-of-giga-texas-factory-7450179.html",
-      "published_at": "2026-05-29T07:00:00"
+      "source": "https://letsdatascience.com/news/openai-model-solves-erdos-planar-unit-distance-problem-757e8a64",
+      "published_at": "2026-05-30T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Retail Technology News: May Update - Chain Store Age",
-      "summary": "Dick’s Sporting Goods rolling out Agentic AI 'coaches' in JuneDick’s Sporting Goods is partnering...",
+      "title": "AI Erodes Human Sense of Agency - Let's Data Science",
+      "summary": "| 6.0 Relevance Score The Atlantic published \"The Feeling of Control Slipping Away\" on May 30, 20...",
       "importance": 3,
-      "source": "https://chainstoreage.com/retail-technology-news-may-update-1",
-      "published_at": "2026-05-29T07:00:00"
+      "source": "https://letsdatascience.com/news/ai-erodes-human-sense-of-agency-8d982a17",
+      "published_at": "2026-05-30T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Best campaign of May 2026: Air Transat - Ad Age",
-      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More Top 5 # The best campaign of May 20...",
+      "title": "Samsung Releases Free Upgrades To Millions More Galaxy Ph...",
+      "summary": "To check if One UI 8.5 is available on your device, go to Settings then Software Update. ## More...",
       "importance": 3,
-      "source": "https://adage.com/creativity/campaigns-commercials/aa-best-campaign-may-2026-winner/",
-      "published_at": "2026-05-29T07:00:00"
+      "source": "https://ca.news.yahoo.com/samsung-releases-free-upgrades-millions-122201027.html",
+      "published_at": "2026-05-30T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Microsoft Build 2026: What to Expect - CNET",
-      "summary": "## Copilot and AI agents Copilot is now the vehicle for Microsoft's AI endeavors, so we expect it...",
+      "title": "SentinelOne Cuts 8% of Workforce as AI Delivers Weeks of...",
+      "summary": "### Share this article PostShare ## More on This Story May 30, 2026 ### AWS Plans to Add SpaceXAI...",
       "importance": 5,
-      "source": "https://www.cnet.com/tech/microsoft-build-2026-what-to-expect/",
-      "published_at": "2026-05-29T07:00:00"
+      "source": "https://opentools.ai/news/sentinelone-cuts-8-percent-workforce-ai-productivity",
+      "published_at": "2026-05-30T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Gemini Spark rolls out to Google AI Ultra in the US: How...",
-      "summary": "Go to the 9to5Google home page Apps & Updates Gemini Gemini app # Gemini Spark rolls out to Googl...",
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, an...",
+      "summary": "Among its suggestions for “personal productivity” is using Spark to scan your emails and calendar...",
       "importance": 4,
-      "source": "https://9to5google.com/2026/05/29/gemini-spark-ultra-us/",
-      "published_at": "2026-05-29T07:00:00"
+      "source": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "published_at": "2026-05-30T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "OpenAI, Anthropic CEOs walk back AI job warnings as IPOs...",
-      "summary": "Anthropic CEO Dario Amodei last year warned that AI could eliminate up to half of entry-level whi...",
+      "title": "Coders are refusing to work without AI — and that could c...",
+      "summary": "Julie Bort In 2026, you cannot pry AI coding tools out of developers’ vise grip, researchers have...",
       "importance": 4,
-      "source": "https://hrexecutive.com/openai-anthropic-ceos-walk-back-ai-job-warnings-as-ipos-loom/",
-      "published_at": "2026-05-29T07:00:00"
+      "source": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "published_at": "2026-05-30T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Eightfold AI Highlights Workforce Transformation Collabor...",
-      "summary": "Advertisement Advertisement # Eightfold AI Highlights Workforce Transformation Collaboration With...",
+      "title": "Дастурчилар сунъий интеллектсиз ишлашдан бош тортмоқда -...",
+      "summary": "In February, the prestigious METR laboratory published an unexpected report: most developers do n...",
       "importance": 3,
-      "source": "https://www.tipranks.com/news/private-companies/eightfold-ai-highlights-workforce-transformation-collaboration-with-deloitte",
-      "published_at": "2026-05-29T07:00:00"
+      "source": "https://zamin.uz/en/technology/204137-developers-refuse-to-work-without-artificial-intelligence.html",
+      "published_at": "2026-05-30T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Why fears of job losses in the AI boom may be overblown -...",
-      "summary": "Skip Navigation Markets Pre-Markets U.S. Markets Currencies Prediction Markets Cryptocurrency Fut...",
+      "title": "Apple Maintains Workforce Stability as Global Tech Layoff...",
+      "summary": "Kerala Lottery Results ## You May Also Like Business ### AI Layoffs in Banking? European Banks Co...",
       "importance": 3,
-      "source": "https://www.cnbc.com/video/2026/05/29/is-indias-push-for-ai-driven-marketing-bad-news-for-the-job-market.html",
-      "published_at": "2026-05-29T07:00:00"
+      "source": "https://www.latestly.com/technology/apple-maintains-workforce-stability-as-global-tech-layoffs-top-92000-amidst-ai-spending-frenzy-report-7452105.html",
+      "published_at": "2026-05-30T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "Illinois representative talks bill that would regulate AI...",
-      "summary": "07:38 ## Elon Musk testifies at OpenAI trial 04:24 ## Jury selection begins in Elon Musk's trial...",
+      "title": "Meta is reportedly developing an AI pendant - TechCrunch",
+      "summary": "Anthony Ha # Meta is reportedly developing an AI pendant Meta is developing an AI-powered pendant...",
       "importance": 5,
-      "source": "https://www.nbcnews.com/video/illinois-representative-talks-bill-that-would-regulate-ai-companies-264128069529",
-      "published_at": "2026-05-29T07:00:00"
+      "source": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "published_at": "2026-05-30T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "OpenAI docuseries shows how AI gives IndyCar’s Ganassi te...",
-      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More Work # OpenAI docuseries shows how...",
+      "title": "Musk v. Altman: Beyond the Billionaire Feud - M-A Chronicle",
+      "summary": "Aria Folkerts / M-A Chronicle AI·Editors' Picks·News·Recent Stories # Musk v. Altman: Beyond the...",
       "importance": 4,
-      "source": "https://adage.com/creativity/work/aa-openai-ganassi-indycar/",
-      "published_at": "2026-05-29T07:00:00"
+      "source": "https://machronicle.com/musk-v-altman-beyond-the-billionaire-feud/",
+      "published_at": "2026-05-30T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "Anthropic bests OpenAI in valuation race, hitting $965B w...",
-      "summary": "AI & ML # Anthropic bests OpenAI in valuation race, hitting $965B with Series H ## The two compet...",
+      "title": "Some investors are turning to biotech as a hedge against...",
+      "summary": "Image 107: Robot-ready_Header Image.png Article ### Want to invest in my startup? Talk to my agen...",
       "importance": 4,
-      "source": "https://pitchbook.com/news/articles/anthropic-bests-openai-in-valuation-race-hitting-965b-with-series-h",
-      "published_at": "2026-05-29T07:00:00"
+      "source": "https://pitchbook.com/news/articles/some-investors-are-turning-to-biotech-as-a-hedge-against-potential-ai-bubbles",
+      "published_at": "2026-05-30T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "AMAT Stock Quote Price and Forecast - CNN",
-      "summary": "Advanced Packaging Portfolio with Acquisition of NEXX by GlobeNewswire Apr 23, 2026 7:30am ET App...",
+      "title": "“Next Year Is The Year When We Could Actually Break Even”...",
+      "summary": "If the company hits break-even in 2027, consumers could see faster product updates and broader re...",
       "importance": 3,
-      "source": "https://www.cnn.com/markets/stocks/AMAT",
-      "published_at": "2026-05-29T07:00:00"
+      "source": "https://glassalmanac.com/next-year-is-the-year-when-we-could-actually-break-even-sparks-ipo-talk-in-2026-heres-what-changes/",
+      "published_at": "2026-05-30T07:00:00"
     }
   ]
 }
