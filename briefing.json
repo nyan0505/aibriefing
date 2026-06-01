@@ -1,122 +1,130 @@
 {
-  "date": "2026-05-31",
-  "generated_at": "2026-05-31T21:20:23.353492",
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T22:01:58.041381",
   "period": {
-    "from": "2026-05-30T07:00:00",
-    "to": "2026-05-31T07:00:00"
+    "from": "2026-05-31T07:00:00",
+    "to": "2026-06-01T07:00:00"
   },
   "items": [
     {
       "category": "new_models",
-      "title": "Solana Unchained Outlines Fixed-Supply Utility Architectu...",
-      "summary": "My Markets Watchlist Markets News # Solana Unchained Outlines Fixed-Supply Utility Architecture a...",
+      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Mo...",
+      "summary": "# NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI May 31, 2026 News...",
       "importance": 5,
-      "source": "https://markets.businessinsider.com/news/stocks/solana-unchained-outlines-fixed-supply-utility-architecture-and-ai-tool-hub-ahead-of-late-may-public-allocation-launch-1036209731",
-      "published_at": "2026-05-31T07:00:00"
+      "source": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
+      "published_at": "2026-06-01T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "81% of ChatGPT-Cited Brands Don't Rank on Google: New Stu...",
-      "summary": "My Markets Watchlist Markets News # 81% of ChatGPT-Cited Brands Don't Rank on Google: New Study R...",
+      "title": "Windborne Systems releases WeatherMesh 6 outperforming EC...",
+      "summary": "TechCrunch reports that startup Windborne Systems released the sixth version of its AI forecastin...",
       "importance": 4,
-      "source": "https://markets.businessinsider.com/news/stocks/81-of-chatgpt-cited-brands-don-t-rank-on-google-new-study-released-1036209786",
-      "published_at": "2026-05-31T07:00:00"
+      "source": "https://letsdatascience.com/news/windborne-systems-releases-weathermesh-6-outperforming-ecmwf-3710dab5",
+      "published_at": "2026-06-01T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "“We Are Firmly In Our Agentic Gemini Era” Sparks Debate A...",
-      "summary": "> • May 19, 2026 – Google CEO’s keynote linked Gemini to new glasses; developers warned of scope....",
+      "title": "Tempus Unveils the Next-Generation of Lens, Expanding its...",
+      "summary": "SUBSCRIBE Press Releases # Tempus Unveils the Next-Generation of Lens, Expanding its Agentic AI P...",
       "importance": 4,
-      "source": "https://glassalmanac.com/we-are-firmly-in-our-agentic-gemini-era-sparks-debate-at-google-i-o-2026-heres-why/",
-      "published_at": "2026-05-31T07:00:00"
+      "source": "https://www.biospace.com/press-releases/tempus-unveils-the-next-generation-of-lens-expanding-its-agentic-ai-platform-for-oncology-drug-development",
+      "published_at": "2026-06-01T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Sublime AI Law Mastery Unveiled to Resolve Historic Camp...",
-      "summary": "RALIEGH, N.C., May 31, 2026 (GLOBE NEWSWIRE) -- A groundbreaking architectural design, modeled su...",
+      "title": "Tempus Announces Initial Results from its Multimodal Foun...",
+      "summary": "CHICAGO--(BUSINESS WIRE)--Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoptio...",
       "importance": 3,
-      "source": "https://markets.businessinsider.com/news/stocks/sublime-ai-law-mastery-unveiled-to-resolve-historic-camp-lejeune-backlog-veterans-first-for-america-1036209919",
-      "published_at": "2026-05-31T07:00:00"
+      "source": "https://www.biospace.com/press-releases/tempus-announces-initial-results-from-its-multimodal-foundation-model-efforts-for-novel-and-scalable-insight-generation-in-oncology",
+      "published_at": "2026-06-01T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "MSI shows MEG Vision X2 AI+: \"The World’s First Gaming De...",
-      "summary": "Loading… Suggestions Articles View all results News Prebuilt Systems # MSI shows MEG Vision X2 AI...",
+      "title": "Qualcomm's Computex Keynote in 12 Minutes - Video - CNET",
+      "summary": "Qualcomm's Computex Keynote in 12 Minutes # Qualcomm's Computex Keynote in 12 Minutes AI Qualcomm...",
       "importance": 3,
-      "source": "https://videocardz.com/newz/msi-shows-meg-vision-x2-ai-the-worlds-first-gaming-desktop-with-agentic-ai-companion",
-      "published_at": "2026-05-31T07:00:00"
+      "source": "https://www.cnet.com/videos/qualcomms-computex-keynote-in-12-minutes/",
+      "published_at": "2026-06-01T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Claude Opus 4.8 Tops GPT-5.5 With Dynamic Workflows and 4...",
-      "summary": "Anthropic closed a $65 billion Series H round at a $965 billion valuation, leapfrogging OpenAI to...",
+      "title": "Microsoft to unveil new AI models and Windows improvement...",
+      "summary": "Microsoft will also discuss its upcoming Copilot “super app” at Build. Fortune first reported on...",
       "importance": 5,
-      "source": "https://opentools.ai/news/claude-opus-4-8-dynamic-workflows-benchmarks-2026",
-      "published_at": "2026-05-31T07:00:00"
+      "source": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+      "published_at": "2026-06-01T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "What Every CEO Needs To Know About AI In May 2026 - Forbes",
-      "summary": "Efficiency claims increasingly need operational proof, pilot programs need measurable outcomes, a...",
+      "title": "AI security device maker AITX ships 116 units with half s...",
+      "summary": "Detroit, Michigan, June 01, 2026 (GLOBE NEWSWIRE) -- Artificial Intelligence Technology Solutions...",
       "importance": 4,
-      "source": "https://www.forbes.com/sites/alexanderpuutio/2026/05/31/what-every-ceo-needs-to-know-about-ai-in-may-2026/",
-      "published_at": "2026-05-31T07:00:00"
+      "source": "https://www.stocktitan.net/news/AITX/aitx-s-rad-scales-production-as-q1-fy27-shipments-exceed-100-ktqi0kc61jkr.html",
+      "published_at": "2026-06-01T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Enterprise AI’s Next Frontier Is Not More Workflows. It’s...",
-      "summary": "That is exactly where many AI initiatives fall apart. A company launches a chatbot, copilot or ag...",
+      "title": "How Box Created 13 New Types of Jobs Because of A.I. - Th...",
+      "summary": "By Kalley Huang Reporting from Redwood City, Calif. June 1, 2026, 10:14 a.m. ET See more of our c...",
       "importance": 4,
-      "source": "https://www.forbes.com/sites/brentgleeson/2026/05/31/enterprise-ais-next-frontier-is-not-more-workflows-its-execution/",
-      "published_at": "2026-05-31T07:00:00"
+      "source": "https://www.nytimes.com/2026/06/01/technology/box-13-new-types-jobs-ai.html",
+      "published_at": "2026-06-01T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Humanoid robots work nonstop in package test - AOL.com",
-      "summary": "At the same time, this raises real concerns about jobs. A robot that can work for hours without a...",
+      "title": "Microsoft Initiates Skills Self - evolution: Training Ski...",
+      "summary": "Home Article # With 3,300 stars gained in a week, Microsoft initiates Skills self-evolution, trai...",
       "importance": 3,
-      "source": "https://www.aol.com/articles/humanoid-robots-nonstop-package-test-163051000.html",
-      "published_at": "2026-05-31T07:00:00"
+      "source": "https://eu.36kr.com/en/p/3832748874934148",
+      "published_at": "2026-06-01T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "The 'Mystery Meat' of Google Gemini - CNET",
-      "summary": "### Tech Editors Talk Generative AI Announcements at Google I/O 2026 The New Gemini Isn't the Sir...",
+      "title": "7 key agency and marketing job moves to know about - Ad Age",
+      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More Executive Moves # 7 key agency and...",
       "importance": 3,
-      "source": "https://www.cnet.com/videos/the-mystery-meat-of-google-gemini/",
-      "published_at": "2026-05-31T07:00:00"
+      "source": "https://adage.com/executive-moves/aa-key-agency-marketing-job-changes-publicis-openai-onepay/",
+      "published_at": "2026-06-01T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "Reports indicate that Meta is developing an AI pendant. -...",
-      "summary": "However, AI company OpenAI is working on developing AI wearable devices and is aiming to enter th...",
+      "title": "Grokstream: Predictive and Agentic AI Moves IT Operations...",
+      "summary": "[[ June 1, 2026 ] External Presence Sharing with Vodia V70 Daily Update eBulletin]( \"External Pre...",
       "importance": 5,
-      "source": "https://gigazine.net/gsc_news/en/20260531-meta-reportedly-developing-ai-pendant/",
-      "published_at": "2026-05-31T07:00:00"
+      "source": "https://telecomreseller.com/2026/06/01/grokstream-predictive-and-agentic-ai-moves-it-operations-toward-self-healing-podcast/",
+      "published_at": "2026-06-01T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "Anthropic Hits $965B Valuation, Overtakes OpenAI as Most...",
-      "summary": "PostShare ## More on This Story May 31, 2026 ### Microsoft Cancels Claude Code Licenses, Pushes E...",
+      "title": "OpenAI Sued by Florida’s Attorney General Over AI Harms -...",
+      "summary": "June 1, 2026 10:42 am ET 8 Listen (1 min) Image 1: A ChatGPT commercial on multiple televisions a...",
       "importance": 4,
-      "source": "https://opentools.ai/news/anthropic-965-billion-valuation-overtakes-openai-2026",
-      "published_at": "2026-05-31T07:00:00"
+      "source": "https://www.wsj.com/tech/ai/openai-sued-by-floridas-attorney-general-over-ai-harms-8a5113a8",
+      "published_at": "2026-06-01T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "‘Tokenmaxxing’ AI Use Is Now Under Scrutiny | Technology...",
-      "summary": "He was tackling a new, high-stakes project: merging OpenAI’s ChatGPT, Codex coding tools and API...",
+      "title": "AI Giant Anthropic Confidentially Files For U.S. IPO As I...",
+      "summary": "The company’s rapid rise in early 2026 rattled markets, triggering sharp selloffs in software and...",
       "importance": 4,
-      "source": "https://www.wsj.com/tech/tokenmaxxing-maxes-out-37103747",
-      "published_at": "2026-05-31T07:00:00"
+      "source": "https://www.huffpost.com/entry/anthropic-ai-ipo-wall-street_n_6a1db1fae4b032392fa3fc39",
+      "published_at": "2026-06-01T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "SpaceX, OpenAI Windfall Fuels Bets on Next-Wave Asian AI...",
-      "summary": "Their thesis is that the billions of dollars that SpaceX, Anthropic PBC and OpenAI are set to rai...",
+      "title": "NYT Publisher Warns AI Companies May Lead to 'Unnecessary...",
+      "summary": "Companies leading the development of generative-AI systems — including OpenAI, Meta, Anthropic an...",
       "importance": 3,
-      "source": "https://www.bloomberg.com/news/articles/2026-05-31/spacex-openai-windfall-fuels-bets-on-next-wave-asian-ai-winners",
-      "published_at": "2026-05-31T07:00:00"
+      "source": "https://variety.com/2026/biz/news/new-york-times-ai-companies-choices-unnecessary-harm-1236763934/",
+      "published_at": "2026-06-01T07:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "The AI Trade Hits Overdrive, Powering Stocks to Historic...",
+      "summary": "Jack Pitcher and Sam Goldfarb May 31, 2026 9:00 pm ET The growing frenzy over memory chips is dri...",
+      "importance": 3,
+      "source": "https://www.wsj.com/finance/stocks/ai-stocks-trade-e7b19a9f",
+      "published_at": "2026-06-01T07:00:00"
     }
   ]
 }
