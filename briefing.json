@@ -1,130 +1,114 @@
 {
-  "date": "2026-06-03",
-  "generated_at": "2026-06-03T21:58:03.852112",
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T21:32:15.747418",
   "period": {
-    "from": "2026-06-02T07:00:00",
-    "to": "2026-06-03T07:00:00"
+    "from": "2026-06-03T07:00:00",
+    "to": "2026-06-04T07:00:00"
   },
   "items": [
     {
       "category": "new_models",
-      "title": "Google's new Gemma 4 open AI model is sized for your lapt...",
-      "summary": "Google says the new model is capable of complex multistep reasoning and agentic workflows that pr...",
+      "title": "Google AI Edge Gallery launches on macOS, letting Mac use...",
+      "summary": "Go to the 9to5Mac home page Google Gemini # Google AI Edge Gallery launches on macOS, letting Mac...",
       "importance": 5,
-      "source": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-      "published_at": "2026-06-03T07:00:00"
+      "source": "https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/",
+      "published_at": "2026-06-04T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Anthropic opens Claude Mythos Preview AI program to Austr...",
-      "summary": "Latest News ## Superloop merges wholesale FTTP operations under a single brand ## Anthropic opens...",
+      "title": "Exclusive | Meta Keeps Delaying the Release of Its New AI...",
+      "summary": "Advertisement This copy is for your personal, non-commercial use only. Distribution and use of th...",
       "importance": 4,
-      "source": "https://www.itnews.com.au/news/anthropic-opens-claude-mythos-preview-ai-program-to-australia-626399",
-      "published_at": "2026-06-03T07:00:00"
+      "source": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
+      "published_at": "2026-06-04T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "From Lab to Life Announces New Book on China’s AI Systems...",
-      "summary": "United States, June 3, 2026 -- From Lab to Life announces the forthcoming release of From Lab to...",
+      "title": "AI Hiring Startup Redrob Enters India Market, Targets Bha...",
+      "summary": "Thursday | Jun 04 2026 | 12:04:04 PM # AI Hiring Startup Redrob Enters India Market, Targets Bhar...",
       "importance": 4,
-      "source": "https://markets.businessinsider.com/news/stocks/from-lab-to-life-announces-new-book-on-china-s-ai-systems-and-market-structure-1036220252",
-      "published_at": "2026-06-03T07:00:00"
+      "source": "https://www.bwdisrupt.com/article/ai-hiring-startup-redrob-enters-india-market-targets-bharat-workforce-609464",
+      "published_at": "2026-06-04T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "What to Expect From Apple at WWDC 2026 | Tech Today - CNET",
-      "summary": "### Musk-Altman Trial Verdict, PlayStation Price Hikes and Alexa Plus AI Podcasts | Tech Today Go...",
+      "title": "Samsung monthly updates: June 2026 security patch gets de...",
+      "summary": "Everything about the latest version of One UI Trending One UI 8.5 Samsung R95H Micro RGB TV Galax...",
       "importance": 3,
-      "source": "https://www.cnet.com/videos/what-to-expect-from-apple-at-wwdc-2026-tech-today/",
-      "published_at": "2026-06-03T07:00:00"
+      "source": "https://www.sammobile.com/news/samsung-june-2026-security-patch-detailed/",
+      "published_at": "2026-06-04T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "OpenAI takes Codex to new heights in Alto’s ‘Time to Fly’...",
-      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More Work # OpenAI takes Codex to new he...",
+      "title": "Cannes Lions 2026 schedule—events for CMOs, creatives, ad...",
+      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More Cannes Lions # Cannes Lions 2026 sc...",
       "importance": 3,
-      "source": "https://adage.com/creativity/work/aa-openai-codex-time-to-fly/",
-      "published_at": "2026-06-03T07:00:00"
+      "source": "https://adage.com/events-awards/cannes-lions/aa-calendar-2026/",
+      "published_at": "2026-06-04T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Marriott International and Google at Skift Data + AI Summ...",
-      "summary": "## THE SO WHAT Your company may be scoping AI as an automation project — speeding up the tasks pe...",
+      "title": "Droga5 wins Microsoft Copilot creative account as AI chat...",
+      "summary": "Accounts in Review # Droga5 wins Microsoft Copilot creative account as AI chatbot race heats up B...",
       "importance": 5,
-      "source": "https://skift.com/2026/06/03/marriott-international-and-google-at-skift-data-ai-summit-2026/",
-      "published_at": "2026-06-03T07:00:00"
+      "source": "https://adage.com/agencies/accounts-in-review/aa-copilot-creative-droga5/",
+      "published_at": "2026-06-04T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Skift Marriott Google AI Search Summit 2026: Hospitality'...",
-      "summary": "## Marriott's AI Search Breakthrough at Skift Summit The Skift Data + AI Summit 2026 showcased Ma...",
+      "title": "GitLab Layoffs: Software Giant to Cut 14% of Workforce an...",
+      "summary": "GitLab’s announcement arrives amid a broader trend of AI-driven workforce adjustments across the...",
       "importance": 4,
-      "source": "https://nomadlawyer.org/skift-marriott-google-ai-search-summit-2026",
-      "published_at": "2026-06-03T07:00:00"
+      "source": "https://www.latestly.com/technology/gitlab-layoffs-software-giant-to-cut-14-of-workforce-and-exit-22-countries-in-major-restructuring-to-prioritise-artificial-intelligence-initiatives-7458872.html",
+      "published_at": "2026-06-04T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Two thirds of workers using AI say it has made work more...",
-      "summary": "Skip to Content Skip to Main Navigation Skip to Footer Home Page Menu # Two thirds of workers usi...",
+      "title": "Apple’s latest privacy spot is haunted by the internet’s...",
+      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More Work # Apple’s latest privacy spot...",
       "importance": 4,
-      "source": "https://www.peoplemanagement.co.uk/article/1960284/two-thirds-workers-using-ai-say-made-work-enjoyable-survey-finds",
-      "published_at": "2026-06-03T07:00:00"
+      "source": "https://adage.com/creativity/work/aa-apple-privacy-clingers/",
+      "published_at": "2026-06-04T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Robotiq launches AI platform to automate robotic workcell...",
-      "summary": "During the live demonstration, partners use IQ to capture requirements, extract project data from...",
+      "title": "Developers Are Still Waiting for Access to Meta's Latest...",
+      "summary": "The spokesperson also pointed to an April 10 X post where Meta's chief AI officer, Alexandr Wang,...",
       "importance": 3,
-      "source": "https://roboticsandautomationnews.com/2026/06/03/robotiq-launches-ai-platform-to-automate-robotic-workcell-integration/102227/",
-      "published_at": "2026-06-03T07:00:00"
+      "source": "https://www.cnet.com/tech/services-and-software/where-is-metas-ai-model-api/",
+      "published_at": "2026-06-04T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Meta enters enterprise AI race with new business agent -...",
-      "summary": "The team will send squads of forward-deployed engineers to embed with enterprise customers, a mod...",
+      "title": "Emerging technology trends brands and agencies need to kn...",
+      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More AI # Emerging technology trends bra...",
       "importance": 3,
-      "source": "https://www.reuters.com/business/meta-launches-enterprise-focused-ai-business-agent-automate-daily-operations-2026-06-03/",
-      "published_at": "2026-06-03T07:00:00"
+      "source": "https://adage.com/technology/ai/aa-emerging-news-and-trends-openai-codex-google-adcp/",
+      "published_at": "2026-06-04T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "OpenAI is going public as the worst value among its AI pe...",
-      "summary": "June 3, 2026 | ByHarrison Rolfes OpenAI is going public as the most expensive AI company in its p...",
+      "title": "Q2 2026 Building, Backing, and Buying AI - PitchBook",
+      "summary": "AI is reshaping the M&A landscape, and Big Tech’s AI spending is accelerating, but its AI acquisi...",
       "importance": 5,
-      "source": "https://pitchbook.com/news/articles/openai-business-quality-valuation-analysis",
-      "published_at": "2026-06-03T07:00:00"
+      "source": "https://pitchbook.com/news/reports/q2-2026-building-backing-and-buying-ai",
+      "published_at": "2026-06-04T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "As the tech mega-IPO race hots up, has OpenAI missed its...",
-      "summary": "But in 2026, it turns out that money is important – and OpenAI needs more. It may not be the best...",
+      "title": "AI giants race toward IPOs at trillion-dollar valuations...",
+      "summary": "Meta’s AI push has meant integrating its assistant, Llama, into all aspects of its business, incl...",
       "importance": 4,
-      "source": "https://www.theguardian.com/technology/2026/jun/03/as-the-tech-mega-ipo-race-hots-up-has-openai-missed-its-moment",
-      "published_at": "2026-06-03T07:00:00"
+      "source": "https://www.ynetnews.com/business/article/bkkdmt0lfg",
+      "published_at": "2026-06-04T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "Microsoft Build 2026 Keynote Highlights - CNET",
-      "summary": "Microsoft Build 2026 Keynote Highlights # Microsoft Build 2026 Keynote Highlights Computing See a...",
+      "title": "Google DeepMind CEO says we don't have much time to prepa...",
+      "summary": "Subscribe Newsletters AI # Google DeepMind CEO says we don't have much time to prepare for the 'n...",
       "importance": 4,
-      "source": "https://www.cnet.com/videos/microsoft-build-2026-keynote-highlights/",
-      "published_at": "2026-06-03T07:00:00"
-    },
-    {
-      "category": "bigtech",
-      "title": "Alphabet’s record-breaking $85B raise for Google’s AI bus...",
-      "summary": "The timing matters beyond Alphabet itself. As Anthropic gets ready to go public, this enormously...",
-      "importance": 3,
-      "source": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-      "published_at": "2026-06-03T07:00:00"
-    },
-    {
-      "category": "bigtech",
-      "title": "2026 Healthcare Marketing Impact Awards entry guide—eligi...",
-      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More Healthcare Marketing Impact Awards...",
-      "importance": 3,
-      "source": "https://adage.com/events-awards/health-care-marketing-impact/aa-2026-awards-entry-guide/",
-      "published_at": "2026-06-03T07:00:00"
+      "source": "https://www.businessinsider.com/google-deepmind-ceo-demis-hassabis-agi-new-human-era-2026-6",
+      "published_at": "2026-06-04T07:00:00"
     }
   ]
 }
