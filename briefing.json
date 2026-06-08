@@ -1,114 +1,130 @@
 {
-  "date": "2026-06-04",
-  "generated_at": "2026-06-04T21:32:15.747418",
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T21:33:21.905810",
   "period": {
-    "from": "2026-06-03T07:00:00",
-    "to": "2026-06-04T07:00:00"
+    "from": "2026-06-07T07:00:00",
+    "to": "2026-06-08T07:00:00"
   },
   "items": [
     {
       "category": "new_models",
-      "title": "Google AI Edge Gallery launches on macOS, letting Mac use...",
-      "summary": "Go to the 9to5Mac home page Google Gemini # Google AI Edge Gallery launches on macOS, letting Mac...",
+      "title": "Apple's Image Playground Gets 'Photorealistic' Capabiliti...",
+      "summary": "See full bio Katelyn Chedraoui Apple's creative AI hub Image Playground will be capable of creati...",
       "importance": 5,
-      "source": "https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/",
-      "published_at": "2026-06-04T07:00:00"
+      "source": "https://www.cnet.com/tech/services-and-software/apple-wwdc-2026-image-playground-ai-news/",
+      "published_at": "2026-06-08T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Exclusive | Meta Keeps Delaying the Release of Its New AI...",
-      "summary": "Advertisement This copy is for your personal, non-commercial use only. Distribution and use of th...",
+      "title": "Apple unveils new AI features with privacy focus at last...",
+      "summary": "Democracy Dies in Darkness # Apple unveils new AI features with privacy focus at last developers...",
       "importance": 4,
-      "source": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
-      "published_at": "2026-06-04T07:00:00"
+      "source": "https://www.washingtonpost.com/business/2026/06/08/apple-siri-wwdc-iphone/d1404f14-6307-11f1-bdd4-805ebb99a693_story.html",
+      "published_at": "2026-06-08T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "AI Hiring Startup Redrob Enters India Market, Targets Bha...",
-      "summary": "Thursday | Jun 04 2026 | 12:04:04 PM # AI Hiring Startup Redrob Enters India Market, Targets Bhar...",
+      "title": "Visage Highlights One Platform AI-Optimized at SIIM26 – C...",
+      "summary": "Visage releases native Visage 7 | Reporting SAN DIEGO , June 8, 2026 /PRNewswire/ -- Visage Imagi...",
       "importance": 4,
-      "source": "https://www.bwdisrupt.com/article/ai-hiring-startup-redrob-enters-india-market-targets-bharat-workforce-609464",
-      "published_at": "2026-06-04T07:00:00"
+      "source": "https://markets.ft.com/data/announce/detail?dockey=600-202606081610PR_NEWS_USPRX____LA78734-1",
+      "published_at": "2026-06-08T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Samsung monthly updates: June 2026 security patch gets de...",
-      "summary": "Everything about the latest version of One UI Trending One UI 8.5 Samsung R95H Micro RGB TV Galax...",
+      "title": "AI Has Entered the Exam Room. When Will Trust Follow? - M...",
+      "summary": "Publishing Partner: Wolters Kluwer Publishing Partners # AI Has Entered the Exam Room. When Will...",
       "importance": 3,
-      "source": "https://www.sammobile.com/news/samsung-june-2026-security-patch-detailed/",
-      "published_at": "2026-06-04T07:00:00"
+      "source": "https://www.modernhealthcare.com/content-studio/publishing-partner/mh-healthcare-ai-adoption-trust-transparency-survey/",
+      "published_at": "2026-06-08T07:00:00"
     },
     {
       "category": "new_models",
-      "title": "Cannes Lions 2026 schedule—events for CMOs, creatives, ad...",
-      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More Cannes Lions # Cannes Lions 2026 sc...",
+      "title": "Drugmakers developing monthly weight loss drugs rather th...",
+      "summary": "02:02 ## Hospitals in Brazil Test Two Patients With Ebola-Like Symptoms 02:01 ## TODAY’s Angie La...",
       "importance": 3,
-      "source": "https://adage.com/events-awards/cannes-lions/aa-calendar-2026/",
-      "published_at": "2026-06-04T07:00:00"
+      "source": "https://www.nbcnews.com/now/video/drugmakers-developing-monthly-weight-loss-drugs-rather-than-weekly-264751173885",
+      "published_at": "2026-06-08T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Droga5 wins Microsoft Copilot creative account as AI chat...",
-      "summary": "Accounts in Review # Droga5 wins Microsoft Copilot creative account as AI chatbot race heats up B...",
+      "title": "Luxury U.S. Hotel Group Increases Monthly Time Savings To...",
+      "summary": "RobosizeME United States Photo byRobosizeME Wilmington, Delaware, June 8, 2026 – RobosizeME, a le...",
       "importance": 5,
-      "source": "https://adage.com/agencies/accounts-in-review/aa-copilot-creative-droga5/",
-      "published_at": "2026-06-04T07:00:00"
+      "source": "https://www.hospitalitynet.org/news/4132849/luxury-us-hotel-group-increases-monthly-time-savings-to-more-than-3000-hours-with-robosizeme-automation",
+      "published_at": "2026-06-08T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "GitLab Layoffs: Software Giant to Cut 14% of Workforce an...",
-      "summary": "GitLab’s announcement arrives amid a broader trend of AI-driven workforce adjustments across the...",
+      "title": "/C O R R E C T I O N -- WorkWhile/ - PR Newswire",
+      "summary": "Accessibility Statement Skip Navigation # /C O R R E C T I O N -- WorkWhile/ ## News provided by...",
       "importance": 4,
-      "source": "https://www.latestly.com/technology/gitlab-layoffs-software-giant-to-cut-14-of-workforce-and-exit-22-countries-in-major-restructuring-to-prioritise-artificial-intelligence-initiatives-7458872.html",
-      "published_at": "2026-06-04T07:00:00"
+      "source": "https://www.prnewswire.com/news-releases/workwhile-launches-workwhile-money-the-first-ai-native-earning-manager-for-the-us-workforce-302793712.html",
+      "published_at": "2026-06-08T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Apple’s latest privacy spot is haunted by the internet’s...",
-      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More Work # Apple’s latest privacy spot...",
+      "title": "NotebookLM Is Getting Google's Latest Gemini AI Model - CNET",
+      "summary": "Macy has been working for CNET for coming on 2 years. Prior to CNET, Macy received a North Caroli...",
       "importance": 4,
-      "source": "https://adage.com/creativity/work/aa-apple-privacy-clingers/",
-      "published_at": "2026-06-04T07:00:00"
+      "source": "https://www.cnet.com/tech/services-and-software/notebooklm-big-upgrade-better-research/",
+      "published_at": "2026-06-08T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Developers Are Still Waiting for Access to Meta's Latest...",
-      "summary": "The spokesperson also pointed to an April 10 X post where Meta's chief AI officer, Alexandr Wang,...",
+      "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and...",
+      "summary": "Image: Google ### Related NotebookLM can now summarize research in ‘cinematic’ video overviews Ad...",
       "importance": 3,
-      "source": "https://www.cnet.com/tech/services-and-software/where-is-metas-ai-model-api/",
-      "published_at": "2026-06-04T07:00:00"
+      "source": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+      "published_at": "2026-06-08T07:00:00"
     },
     {
       "category": "productivity",
-      "title": "Emerging technology trends brands and agencies need to kn...",
-      "summary": "AdAgeAnswersBeta Your Shortcut to Smarter Insights Learn More AI # Emerging technology trends bra...",
+      "title": "ADvendio Launches Specialised AI Workforce to Drive Agent...",
+      "summary": "About us Contact Us Homepage Agentic AI ExchangeWire PressBox in Agentic AIMediaRevenue 1 hour ag...",
       "importance": 3,
-      "source": "https://adage.com/technology/ai/aa-emerging-news-and-trends-openai-codex-google-adcp/",
-      "published_at": "2026-06-04T07:00:00"
+      "source": "https://www.exchangewire.com/blog/2026/06/08/advendio-launches-specialised-ai-workforce-to-drive-agentic-advertising/?amp",
+      "published_at": "2026-06-08T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "Q2 2026 Building, Backing, and Buying AI - PitchBook",
-      "summary": "AI is reshaping the M&A landscape, and Big Tech’s AI spending is accelerating, but its AI acquisi...",
+      "title": "Apple Set to Unveil New Siri at Developers Event, Seeking...",
+      "summary": "# Apple WWDC 2026: The Latest Updates, Announcements and Siri AI Updates - WSJ Skip to Main Conte...",
       "importance": 5,
-      "source": "https://pitchbook.com/news/reports/q2-2026-building-backing-and-buying-ai",
-      "published_at": "2026-06-04T07:00:00"
+      "source": "https://www.wsj.com/tech/apple-wwdc-2026-annoucements-69c7948c",
+      "published_at": "2026-06-08T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "AI giants race toward IPOs at trillion-dollar valuations...",
-      "summary": "Meta’s AI push has meant integrating its assistant, Llama, into all aspects of its business, incl...",
+      "title": "Apple expected to unveil new AI features at last develope...",
+      "summary": "Share Facebook Copy Link copied Print Email X LinkedIn Bluesky Flipboard Pinterest Reddit 3 of 5...",
       "importance": 4,
-      "source": "https://www.ynetnews.com/business/article/bkkdmt0lfg",
-      "published_at": "2026-06-04T07:00:00"
+      "source": "https://apnews.com/article/apple-siri-wwdc-iphone-aa25d07c06d366ec5b62643a1f5b0db9",
+      "published_at": "2026-06-08T07:00:00"
     },
     {
       "category": "bigtech",
-      "title": "Google DeepMind CEO says we don't have much time to prepa...",
-      "summary": "Subscribe Newsletters AI # Google DeepMind CEO says we don't have much time to prepare for the 'n...",
+      "title": "Axios C-Suite: 3 new AI developments for the week of June...",
+      "summary": "Skip to main content Axios 6 mins ago - Business # Axios C-Suite: 3 new AI developments for the w...",
       "importance": 4,
-      "source": "https://www.businessinsider.com/google-deepmind-ceo-demis-hassabis-agi-new-human-era-2026-6",
-      "published_at": "2026-06-04T07:00:00"
+      "source": "https://www.axios.com/2026/06/08/ai-news-nvidia-cosmos-3-openai-sites-solara-rtx-spark",
+      "published_at": "2026-06-08T07:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "OpenAI Files Confidential S-1, but Says IPO 'May Be a Whi...",
+      "summary": "AI OpenAI Anthropic More IPO HOME Subscribe This story is available exclusively to Business Insid...",
+      "importance": 3,
+      "source": "https://www.businessinsider.com/openai-files-confidential-s-1-ipo-may-be-a-while-2026-6",
+      "published_at": "2026-06-08T07:00:00"
+    },
+    {
+      "category": "bigtech",
+      "title": "The $100,000 visa fee isn't stopping OpenAI, Anthropic, a...",
+      "summary": "Anthropic, OpenAI, Nvidia, Meta, and Amazon did not respond to email requests for comment. Micros...",
+      "importance": 3,
+      "source": "https://www.businessinsider.com/h-1b-visa-filings-rise-for-anthropic-openai-nvidia-2026-6",
+      "published_at": "2026-06-08T07:00:00"
     }
   ]
 }
